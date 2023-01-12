@@ -9,9 +9,9 @@
 
 ---
 
-### Week 1
+>**[Week 1](https://github.com/Amey-Thakur/ENGINEERING-TECHNICAL-COMMUNICATIONS/tree/main/Week%201)**
 
- - []()
+ - [Class Activity](https://github.com/Amey-Thakur/ENGINEERING-TECHNICAL-COMMUNICATIONS/tree/main/Week%201/Class%20Activity)
  
 ---
 
