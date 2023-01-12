@@ -13,7 +13,7 @@
 
  - [Class Activity](https://github.com/Amey-Thakur/ENGINEERING-TECHNICAL-COMMUNICATIONS/tree/main/Week%201/Class%20Activity)
  
- - [Presentation](https://github.com/Amey-Thakur/ENGINEERING-TECHNICAL-COMMUNICATIONS/blob/main/Week%201/Week%201%2C%20Lesson%201%20W23%20(Thu).pdf)
+ - [Lecture Slides](https://github.com/Amey-Thakur/ENGINEERING-TECHNICAL-COMMUNICATIONS/blob/main/Week%201/Week%201%2C%20Lesson%201%20W23%20(Thu).pdf)
  
 ---
 
