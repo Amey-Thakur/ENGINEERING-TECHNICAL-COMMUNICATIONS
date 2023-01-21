@@ -35,7 +35,11 @@
 ### Major Team Project Documents
 
  - [Team Contract](https://github.com/Amey-Thakur/ENGINEERING-TECHNICAL-COMMUNICATIONS/blob/main/Major%20Team%20Project%20Documents/Team%20Contract%20.pdf)
+
  - [Introduction to the Four Smart Design Lenses - W23](https://github.com/Amey-Thakur/ENGINEERING-TECHNICAL-COMMUNICATIONS/blob/main/Major%20Team%20Project%20Documents/Introduction%20to%20the%20Four%20Smart%20Design%20Lenses%20-%20W23.pdf)
+
+
+---
 
 <p align="center"> <b> 👉🏻 Subject as a part of the 1st Semester of MEng @ University of Windsor 👈🏻 <b> </p>
  
