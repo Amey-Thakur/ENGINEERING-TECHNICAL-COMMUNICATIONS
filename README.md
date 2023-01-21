@@ -11,7 +11,7 @@
 
 ---
 
->**[Week 1](https://github.com/Amey-Thakur/ENGINEERING-TECHNICAL-COMMUNICATIONS/tree/main/Week%201)**
+>**Week 1**
 
  - [Class Activity](https://github.com/Amey-Thakur/ENGINEERING-TECHNICAL-COMMUNICATIONS/tree/main/Week%201/Class%20Activity)
  
@@ -19,13 +19,13 @@
  - [Lesson 2](https://github.com/Amey-Thakur/ENGINEERING-TECHNICAL-COMMUNICATIONS/blob/main/Week%201/Week%201%2C%20Lesson%202%20W23%20(Tuesday).pdf)
  
 
->**[Week 2](https://github.com/Amey-Thakur/ENGINEERING-TECHNICAL-COMMUNICATIONS/tree/main/Week%202)**
+>**Week 2**
 
  - [Lesson 1](https://github.com/Amey-Thakur/ENGINEERING-TECHNICAL-COMMUNICATIONS/blob/main/Week%202/Week%202%2C%20Lesson%201%20W23%20(Thursday).pdf)
  - [Lesson 2](https://github.com/Amey-Thakur/ENGINEERING-TECHNICAL-COMMUNICATIONS/blob/main/Week%202/Week%202%2C%20Lesson%202%20W23%20(Tuesday).pdf)
 
 
->**[Week 3](https://github.com/Amey-Thakur/ENGINEERING-TECHNICAL-COMMUNICATIONS/tree/main/Week%202)**
+>**Week 3**
 
  - [Lesson 1](https://github.com/Amey-Thakur/ENGINEERING-TECHNICAL-COMMUNICATIONS/blob/main/Week%203/Week%203%2C%20Lesson%201%20W23%20(Thursday).pdf)
  - [Lesson 2]()
