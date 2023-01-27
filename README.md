@@ -15,6 +15,8 @@
 
 ---
 
+## Lecture Notes
+
 >**Week 1**
 
  - [Class Activity](https://github.com/Amey-Thakur/ENGINEERING-TECHNICAL-COMMUNICATIONS/tree/main/Week%201/Class%20Activity) 
@@ -39,9 +41,8 @@
  - [Lesson 1](https://github.com/Amey-Thakur/ENGINEERING-TECHNICAL-COMMUNICATIONS/blob/main/Week%204/Week%204%2C%20Lesson%201%20W23%20(Thursday).pdf) | Guest Lecture [IEEE Presentation by Jason Horn](https://github.com/Amey-Thakur/ENGINEERING-TECHNICAL-COMMUNICATIONS/blob/main/Week%204/IEEE%20Engineering%20Presentation%20(Jason%20Horn).pdf)
  - [Lesson 2]()
 
----
 
-### Major Team Project Documents
+## Major Team Project Documents
 
  - [Team Contract](https://github.com/Amey-Thakur/ENGINEERING-TECHNICAL-COMMUNICATIONS/blob/main/Major%20Team%20Project%20Documents/Team%20Contract%20.pdf)
 
