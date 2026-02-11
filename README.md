@@ -1,56 +1,146 @@
-# ENGINEERING-TECHNICAL-COMMUNICATIONS
+<!-- =========================================================================================
+                                     HEADER SECTION
+     ========================================================================================= -->
+<div align="center">
 
-👍🏻 GENG8000: ETC [SEMESTER I]
- 
----
- 
- - [X] **[Syllabus](https://github.com/Amey-Thakur/ENGINEERING-MATHEMATICS/blob/main/GENG%208010%20%E2%80%93%20Engineering%20Mathematics.pdf)**
- 
- - [X] **[Reference Books](https://github.com/Amey-Thakur/ENGINEERING-TECHNICAL-COMMUNICATIONS/tree/main/Reference%20Books)**
- 
- - [X] **[Supplementary Writing and Communications Resources](https://github.com/Amey-Thakur/ENGINEERING-TECHNICAL-COMMUNICATIONS/tree/main/Supplementary%20Writing%20and%20Communications%20Resources)**
+  <!-- Logo -->
+  <img src="university-of-windsor-logo.png" alt="University of Windsor" width="400"/>
 
----
+  <!-- Title -->
+  # Engineering Technical Communications
 
-### McGraw Hill Connect Composition | [Textbook](https://github.com/Amey-Thakur/ENGINEERING-TECHNICAL-COMMUNICATIONS/blob/main/Assignments/McGraw%20Hill%20Connect/McGraw-Hill%20Connect%20Composition%205e.pdf) | [Results](https://github.com/Amey-Thakur/ENGINEERING-TECHNICAL-COMMUNICATIONS/blob/main/Assignments/McGraw%20Hill%20Connect/Results%20GENG%208000%20in%20Connect.pdf)
+  <!-- Subtitle -->
+  ### GENG 8000 · Semester I · MEng Computer Engineering
 
----
+  <!-- Badges -->
+  [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](LICENSE)
+  [![University](https://img.shields.io/badge/University-Windsor-005596.svg)](https://www.uwindsor.ca)
+  [![Program](https://img.shields.io/badge/Program-MEng%20Computer%20Engineering-FFCE00.svg)](https://www.uwindsor.ca/engineering/)
+  [![Curated by](https://img.shields.io/badge/Curated%20by-Amey%20Thakur-blue.svg)](https://github.com/Amey-Thakur)
 
->Lecture Notes
+  <!-- Short Description -->
+  **A comprehensive academic archive for Engineering Technical Communications (GENG 8000), documenting the development of professional communication skills, technical writing proficiency, and scholarly documentation standards within the Master of Engineering program.**
 
-- **Week 1**
+  ---
 
-   - [Class Activity](https://github.com/Amey-Thakur/ENGINEERING-TECHNICAL-COMMUNICATIONS/tree/main/Week%201/Class%20Activity) 
-   - [Lesson 1](https://github.com/Amey-Thakur/ENGINEERING-TECHNICAL-COMMUNICATIONS/blob/main/Week%201/Week%201%2C%20Lesson%201%20W23%20(Thursday).pdf)
-   - [Lesson 2](https://github.com/Amey-Thakur/ENGINEERING-TECHNICAL-COMMUNICATIONS/blob/main/Week%201/Week%201%2C%20Lesson%202%20W23%20(Tuesday).pdf)
- 
+  <!-- Navigation Links -->
+  [Overview](#overview) &nbsp;·&nbsp; [Repository Contents](#repository-contents) &nbsp;·&nbsp; [Assignments](#assignments) &nbsp;·&nbsp; [Lecture Notes](#lecture-notes) &nbsp;·&nbsp; [Syllabus](#syllabus) &nbsp;·&nbsp; [Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
 
-- **Week 2**
-  
-   - [Lesson 1](https://github.com/Amey-Thakur/ENGINEERING-TECHNICAL-COMMUNICATIONS/blob/main/Week%202/Week%202%2C%20Lesson%201%20W23%20(Thursday).pdf)
-   - [Lesson 2](https://github.com/Amey-Thakur/ENGINEERING-TECHNICAL-COMMUNICATIONS/blob/main/Week%202/Week%202%2C%20Lesson%202%20W23%20(Tuesday).pdf)
-
-
-- **Week 3**
-
-   - [Lesson 1](https://github.com/Amey-Thakur/ENGINEERING-TECHNICAL-COMMUNICATIONS/blob/main/Week%203/Week%203%2C%20Lesson%201%20W23%20(Thursday).pdf)
-   - [Lesson 2](https://github.com/Amey-Thakur/ENGINEERING-TECHNICAL-COMMUNICATIONS/blob/main/Week%203/Week%203%2C%20Lesson%202%20Asynchronous%20Content%20-%20Project%20Description%20Overview.mp4) - Recorded Lecture
- 
- 
-- **Week 4**
-
-   - [Lesson 1](https://github.com/Amey-Thakur/ENGINEERING-TECHNICAL-COMMUNICATIONS/blob/main/Week%204/Week%204%2C%20Lesson%201%20W23%20(Thursday).pdf) | Guest Lecture - [IEEE Presentation by Jason Horn](https://github.com/Amey-Thakur/ENGINEERING-TECHNICAL-COMMUNICATIONS/blob/main/Week%204/IEEE%20Engineering%20Presentation%20(Jason%20Horn).pdf)
-   - [Lesson 2]()
-
-
-### Major Team Project Documents
-
- - [Team Contract](https://github.com/Amey-Thakur/ENGINEERING-TECHNICAL-COMMUNICATIONS/blob/main/Major%20Team%20Project%20Documents/Team%20Contract%20.pdf)
-
- - [Introduction to the Four Smart Design Lenses - W23](https://github.com/Amey-Thakur/ENGINEERING-TECHNICAL-COMMUNICATIONS/blob/main/Major%20Team%20Project%20Documents/Introduction%20to%20the%20Four%20Smart%20Design%20Lenses%20-%20W23.pdf)
+</div>
 
 ---
 
+<!-- =========================================================================================
+                                     OVERVIEW SECTION
+     ========================================================================================= -->
+## Overview
+
+Engineering Technical Communications (GENG 8000) is a foundational graduate course in the Master of Engineering (MEng) program at the [University of Windsor](https://www.uwindsor.ca). This course focuses on developing the advanced communication skills essential for professional engineers, encompassing technical reporting, scholarly writing, oral presentations, and collaborative project documentation.
+
+### Course Objectives
+
+The curriculum is designed to enhance proficiency in several critical domains:
+- **Professional Writing**: Crafting precise technical reports, proposals, and academic summaries.
+- **Rhetorical Analysis**: Understanding audience needs and structuring information for maximum impact.
+- **Visual Communication**: Designing effective graphs, tables, and visual aids for engineering data.
+- **Collaborative Engineering**: Developing strategies for effective teamwork and peer assessment.
+- **Digital Literacy**: Leveraging modern tools for technical documentation and cloud-based collaboration.
+
+### Repository Purpose
+
+This repository represents a meticulously curated collection of lecture notes, class activities, assignments, and research resources compiled during my first semester of graduate study. The primary motivation for maintaining this archive is to **preserve advanced communications knowledge** for ongoing professional development and to serve as a high-fidelity reference for the engineering community.
+
+**Why this repository exists:**
+- **Professional Reference**: To maintain a structured archive of technical communication standards and templates.
+- **Scholarly Documentation**: To authentically document my academic progression and mastery of professional discourse.
+- **Continuous Learning**: To support lifelong learning by enabling easy revisitation of core communication principles.
+- **Knowledge Sharing**: To contribute verified academic resources to students and researchers in similar graduate programs.
+
+> [!NOTE]
+> All materials were created, compiled, and organized by me during the Winter 2023 semester as part of my MEng degree requirements.
+
+---
+
+<!-- =========================================================================================
+                                     CONTENTS SECTION
+     ========================================================================================= -->
+## Repository Contents
+
+### Core Resources
+
+| Resource | Description |
+|:---|:---|
+| 📋 **[Syllabus](GENG%208000%20-%20Engineering%20Technical%20Communications.pdf)** | Official course outcomes, assessment criteria, and module specifications. |
+| 📚 **[Reference Books](Reference%20Books/)** | Primary textbooks including McGraw Hill Connect Composition 5e. |
+| ✍️ **[Supp. Resources](Supplementary%20Writing%20and%20Communications%20Resources/)** | Faculty writing support and English conversation resources. |
+| 🎓 **[View My Classes](View%20My%20Classes%20-%20Winter%202023.pdf)** | Official class schedule and enrollment record. |
+
+---
+
+### Assignments
+
+Comprehensive documentation of all major academic assessments and collaborative projects:
+
+| # | Assessment | Description |
+|:-:|:---|:---|
+| 1 | [Assignment 2](Assignments/Assignment%202/) | Scholarly writing and technical analysis project. |
+| 2 | [Elevator Talk](Assignments/Elevator%20Talk/) | Professional oral communication and persuasion exercise. |
+| 3 | [In-Class Exercises](Assignments/In-Class%20Exercises/) | Applied rhetorical and technical communication drills. |
+| 4 | [Major Team Project](Assignments/Major%20Project/) | Full-scale engineering project documentation and [Team Contract](Major%20Team%20Project%20Documents/Team%20Contract%20.pdf). |
+| 5 | [McGraw Hill Connect](Assignments/McGraw%20Hill%20Connect/) | Digital composition exercises and assessment [Results](Assignments/McGraw%20Hill%20Connect/Results%20GENG%208000%20in%20Connect.pdf). |
+
+---
+
+### Lecture Notes
+
+Weekly archival records of pedagogical content and guest presentations:
+
+| Week | Key Topics | Links |
+|:---:|:---|:---|
+| **1** | [Introduction to Rhetoric](Week%201/) | [Lesson 1](Week%201/Week%201%2C%20Lesson%201%20W23%20(Thursday).pdf) · [Lesson 2](Week%201/Week%201%2C%20Lesson%202%20W23%20(Tuesday).pdf) · [Activity](Week%201/Class%20Activity/) |
+| **2** | [Writing Process & Channels](Week%202/) | [Lesson 1](Week%202/Week%202%2C%20Lesson%201%20W23%20(Thursday).pdf) · [Lesson 2](Week%202/Week%202%2C%20Lesson%202%20W23%20(Tuesday).pdf) |
+| **3** | [Collaboration & Teams](Week%203/) | [Lesson 1](Week%203/Week%203%2C%20Lesson%201%20W23%20(Thursday).pdf) · [Recorded Lecture](Week%203/Week%203%2C%20Lesson%202%20Asynchronous%20Content%20-%20Project%20Description%20Overview.mp4) |
+| **4** | [IEEE Standards & Research](Week%204/) | [Lesson 1](Week%204/Week%204%2C%20Lesson%201%20W23%20(Thursday).pdf) · [Guest Lecture (Jason Horn)](Week%204/IEEE%20Engineering%20Presentation%20(Jason%20Horn).pdf) |
+| **5** | [Paraphrasing & Rewriting](Week%205/) | [Lesson 1](Week%205/Week%205%2C%20Lesson%201%20W23%20(Thursday).pdf) · [In-Class Activity](Week%205/In-Class%20Activity/) |
+| **6** | [Engineering Ethics & Sins](Week%206/) | [Lesson 1](Week%206/Week%206%2C%20Lesson%201%20W23%20(Thursday).pdf) · [Lesson 2](Week%206/Week%206%2C%20Lesson%202%20W23%20(Tuesday).pdf) |
+| **7** | [Misleading Graphs](Week%207/) | [Lesson 1](Week%207/Week%207%2C%20Lesson%201%20W23%20(Thursday).pdf) · [Lesson 2](Week%207/Week%207%2C%20Lesson%202%20W23%20(Tuesday).pdf) |
+| **8** | [Elevator Pitches](Week%208/) | [Lesson 2](Week%208/Week%208%2C%20Lesson%202%20W23%20(Tuesday).pdf) · [Pitche Guides](Week%208/) |
+| **9** | [Project Finalization](Week%209/) | [Lesson 1](Week%209/Week%209%2C%20Lesson%201%20W23%20(Thursday).pdf) |
+| **10** | [MEng Presentation](Week%2010/) | [Lesson 1](Week%2010/Week%2010%2C%20Lesson%201%20W23%20(Thursday).pdf) · [Presentation Package](Week%2010/MEng%20Presentation%20Package.pdf) |
+
+---
+
+<!-- =========================================================================================
+                                     SYLLABUS SECTION
+     ========================================================================================= -->
+## Syllabus
+
+> **[Official GENG 8000 Syllabus](GENG%208000%20-%20Engineering%20Technical%20Communications.pdf)**  
+> Comprehensive course profile from the University of Windsor, including detailed grading schemes, core competencies, and professional development milestones for GENG 8000.
+
+---
+
+<!-- =========================================================================================
+                                     USAGE GUIDELINES
+     ========================================================================================= -->
+## Usage Guidelines
+
+This repository is openly shared to support learning and professional growth across the engineering community.
+
+**For Students**  
+Use these resources as templates for technical reports, reference materials for IEEE citation standards, and examples of scholarly engineering discourse.
+
+**For Educators**  
+These materials may serve as samples for course design, assessment benchmarking, or supplementary instructional content in technical communications.
+
+**For Professionals**  
+The technical writing standards and presentation strategies documented here provide a strong foundation for effective corporate and academic communication.
+
+---
+
+<!-- =========================================================================================
+                                     LICENSE SECTION
+     ========================================================================================= -->
 ## License
 
 This repository and all linked academic content are made available under the **Creative Commons Attribution 4.0 International License (CC BY 4.0)**. See the [LICENSE](LICENSE) file for complete terms.
@@ -58,11 +148,52 @@ This repository and all linked academic content are made available under the **C
 > [!NOTE]
 > **Summary**: You are free to share and adapt this content for any purpose, even commercially, as long as you provide appropriate attribution to the original author.
 
-Copyright © 2023 - 2024 Amey Thakur
+---
+
+<!-- =========================================================================================
+                                     ABOUT SECTION
+     ========================================================================================= -->
+## About This Repository
+
+**Created & Maintained by**: [Amey Thakur](https://github.com/Amey-Thakur)  
+**Academic Journey**: Master of Engineering in Computer Engineering (2023-2024)  
+**Institution**: [University of Windsor](https://www.uwindsor.ca), Windsor, Ontario  
+**Faculty**: [Faculty of Engineering](https://www.uwindsor.ca/engineering/)
+
+This repository represents a terminal record of my technical communication studies during my graduate program. It acts as a digital portfolio of professional writing, rhetorical strategies, and collaborative engineering documentation created to meet the rigorous standards of global engineering discourse.
+
+**Connect**: [GitHub](https://github.com/Amey-Thakur) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/amey-thakur) &nbsp;·&nbsp; [ORCID](https://orcid.org/0000-0001-5644-1575)
+
+### Acknowledgments
+
+Grateful acknowledgment to **Jason Horn**, **Writing Support**, **University of Windsor**, for his distinguished mentorship and scholarly guidance. His thoughtful feedback and methodological precision were instrumental in strengthening the analytical depth and professional quality of my academic work. His commitment to excellence and integrity in technical communication is gratefully acknowledged.
+
+Grateful acknowledgment to the **Faculty of Engineering** at the **University of Windsor** for their pedagogical leadership, and to the various guest lecturers whose industry insights enriched the curriculum of GENG 8000.
+
+Special thanks to the peer assessment groups and project team members whose collaborative efforts and critical insights were essential to the successful completion of the major engineering communication projects.
 
 ---
 
-<p align="center"> <b> 👉🏻 Subject as a part of the 1st Semester of MEng @ University of Windsor 👈🏻 </b> </p>
- 
-<p align="center"><a href='https://github.com/Amey-Thakur/MENG-COMPUTER-ENGINEERING', style='color: greenyellow;'> ✌🏻 Back To Engineering ✌🏻 </a></p>
- 
+<!-- =========================================================================================
+                                     FOOTER SECTION
+     ========================================================================================= -->
+<div align="center">
+
+  <!-- Footer Navigation -->
+  [↑ Back to Top](#engineering-technical-communications)
+
+  [Overview](#overview) &nbsp;·&nbsp; [Contents](#repository-contents) &nbsp;·&nbsp; [Assignments](#assignments) &nbsp;·&nbsp; [Lecture Notes](#lecture-notes) &nbsp;·&nbsp; [Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
+
+</div>
+
+---
+
+<div align="center">
+
+  ### 🎓 [MEng Computer Engineering Repository](https://github.com/Amey-Thakur/MENG-COMPUTER-ENGINEERING)
+
+  **Computer Engineering (M.Eng) - University of Windsor**
+
+  *An archival record of **graduate-level research** and **advanced engineering coursework**.*
+
+</div>
