@@ -1,7 +1,7 @@
 # Security Policy
 
 ## Scope
-This repository is maintained for academic, educational, and advanced research purposes. It is not intended for production, commercial, or mission-critical use.
+This repository is maintained for academic, educational, and advanced research purposes within the Master of Engineering program in Computer Engineering. It is not intended for production, commercial, or mission-critical use.
 
 ## Reporting Issues
 If you identify a potential security issue, misuse, or unintended behavior related to the contents of this repository, please report it responsibly by opening an issue or contacting the repository maintainer.
