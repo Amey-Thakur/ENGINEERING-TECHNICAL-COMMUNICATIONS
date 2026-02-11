@@ -12,7 +12,7 @@
 
 ---
 
-### McGrow Hill Connect Composition | [Textbook](https://github.com/Amey-Thakur/ENGINEERING-TECHNICAL-COMMUNICATIONS/blob/main/McGraw%20Hill%20Connect/McGraw-Hill%20Connect%20Composition%205e.pdf) | [Results](https://github.com/Amey-Thakur/ENGINEERING-TECHNICAL-COMMUNICATIONS/blob/main/McGraw%20Hill%20Connect/Results%20GENG%208000%20in%20Connect.pdf)
+### McGraw Hill Connect Composition | [Textbook](https://github.com/Amey-Thakur/ENGINEERING-TECHNICAL-COMMUNICATIONS/blob/main/Assignments/McGraw%20Hill%20Connect/McGraw-Hill%20Connect%20Composition%205e.pdf) | [Results](https://github.com/Amey-Thakur/ENGINEERING-TECHNICAL-COMMUNICATIONS/blob/main/Assignments/McGraw%20Hill%20Connect/Results%20GENG%208000%20in%20Connect.pdf)
 
 ---
 
@@ -34,7 +34,7 @@
 - **Week 3**
 
    - [Lesson 1](https://github.com/Amey-Thakur/ENGINEERING-TECHNICAL-COMMUNICATIONS/blob/main/Week%203/Week%203%2C%20Lesson%201%20W23%20(Thursday).pdf)
-   - [Lesson 2](https://github.com/Amey-Thakur/ENGINEERING-TECHNICAL-COMMUNICATIONS/blob/main/Week%203/Week%203%2C%20Lesson%202%20Asynchronous%20Content%20-%20Project%20Project%20Description%20Overview.mp4) - Recorded Lecture
+   - [Lesson 2](https://github.com/Amey-Thakur/ENGINEERING-TECHNICAL-COMMUNICATIONS/blob/main/Week%203/Week%203%2C%20Lesson%202%20Asynchronous%20Content%20-%20Project%20Description%20Overview.mp4) - Recorded Lecture
  
  
 - **Week 4**
@@ -51,7 +51,7 @@
 
 ---
 
-<p align="center"> <b> 👉🏻 Subject as a part of the 1st Semester of MEng @ University of Windsor 👈🏻 <b> </p>
+<p align="center"> <b> 👉🏻 Subject as a part of the 1st Semester of MEng @ University of Windsor 👈🏻 </b> </p>
  
-<p align="center"><a href='https://github.com/Amey-Thakur/MENG-COMPUTER-ENGINEERING', style='color: greenyellow;'> ✌🏻 Back To Engineering ✌🏻</p>
+<p align="center"><a href='https://github.com/Amey-Thakur/MENG-COMPUTER-ENGINEERING', style='color: greenyellow;'> ✌🏻 Back To Engineering ✌🏻 </a></p>
  
