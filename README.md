@@ -48,13 +48,9 @@ The curriculum is designed to enhance proficiency in several critical domains:
 
 ### Repository Purpose
 
-This repository represents a meticulously curated collection of lecture notes, class activities, assignments, and research resources compiled during my first semester of graduate study. The primary motivation for maintaining this archive is to **preserve advanced communications knowledge** for ongoing professional development and to serve as a high-fidelity reference for the engineering community.
+This repository represents a curated collection of study materials, reference books, course assessments, and personal preparation notes compiled during my academic journey. The primary motivation for creating and maintaining this archive is simple yet profound: **to preserve knowledge for continuous learning and future reference**.
 
-**Why this repository exists:**
-- **Professional Reference**: To maintain a structured archive of technical communication standards and templates.
-- **Scholarly Documentation**: To authentically document my academic progression and mastery of professional discourse.
-- **Continuous Learning**: To support lifelong learning by enabling easy revisitation of core communication principles.
-- **Knowledge Sharing**: To contribute verified academic resources to students and researchers in similar graduate programs.
+As I progress in my career, I recognize that technical communication foundations remain essential for solving complex engineering problems and explaining them to diverse audiences. This repository serves as my intellectual reference point: a resource I can return to for relearning concepts, reviewing methodologies, and strengthening understanding when needed.
 
 > [!NOTE]
 > All materials were created, compiled, and organized by me during the Winter 2023 semester as part of my MEng degree requirements.
