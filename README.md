@@ -52,6 +52,16 @@ This repository represents a curated collection of study materials, reference bo
 
 As I progress in my career, I recognize that technical communication foundations remain essential for solving complex engineering problems and explaining them to diverse audiences. This repository serves as my intellectual reference point: a resource I can return to for relearning concepts, reviewing methodologies, and strengthening understanding when needed.
 
+**Why this repository exists:**
+
+- **Knowledge Preservation**: To maintain organized access to comprehensive study materials and professional communication templates.
+- **Continuous Learning**: To support lifelong learning by enabling easy revisitation of fundamental technical communication principles.
+- **Academic Documentation**: To authentically document my graduate learning journey through Engineering Technical Communications.
+- **Community Contribution**: To share these resources with students and researchers who may benefit from professional documentation standards.
+
+> [!NOTE]
+> All materials were created, compiled, and organized by me during the Winter 2023 semester as part of my MEng degree requirements.
+
 
 ---
 
