@@ -244,8 +244,8 @@ A multi-phase engineering capstone focusing on home insulation technology, docum
 #### V. Professional Oral Defense
 Specialized assessments focusing on professional verbal delivery, simulated career environments, and strategic networking communication.
 
-> [!TIP]
-> Master the **Elevator Talk** by strategically condensing technical expertise into a high-impact value proposition. Success depends on **concise rhetoric**; engage your stakeholder's interest within seconds by balancing technical credibility with the immediate clarity required for swift professional decision-making.
+> [!NOTE]
+> The **Elevator Talk** is a critical exercise in **professional brevity**. It requires the speaker to distill years of engineering expertise into a 60-second authentic narrative, successfully answering the stakeholder query "What do you do?" while establishing a credible and memorable professional identity.
 
 <details>
 <summary><b>Elevator Talk — Professional Oral Defense</b><br><i>Simulated professional pitch and oral communication defense</i></summary>
