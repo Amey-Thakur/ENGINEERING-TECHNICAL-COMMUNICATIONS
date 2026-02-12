@@ -95,24 +95,24 @@ Study materials and planning resources for effective academic progression:
 
 ### Discussion Forum
 
-Academic reflections and peer discourse records focusing on personal narrative and indigenous environmental history.
+Reflections and discussions on personal narrative and indigenous history, documented as part of collaborative peer engagement.
 
 | # | Discussion Topic | Archival Deliverable |
 |:-:|:---|:---|
-| 1 | **Introductions**: Professional Identity and Personal Narrative | [How Basketball Transformed My Life.pdf](Discussion%20Posts/Discussion%20Post%201%20-%20Introductions/How%20Basketball%20Transformed%20My%20Life.pdf) |
-| 2 | **Learning from the Land**: Indigenous Engineering and Environmental Impact | [Preserving Anishinaabek's Wild Rice Harvesting Tradition.pdf](Discussion%20Posts/Discussion%20Post%202%20-%20Learning%20from%20the%20Land/Preserving%20Anishinaabek's%20Wild%20Rice%20Harvesting%20Tradition%20Amidst%20Dam%20Construction.pdf) |
+| 1 | **Introductions**: Personal Narrative and Professional Identity | [How Basketball Transformed My Life.pdf](Discussion%20Posts/Discussion%20Post%201%20-%20Introductions/How%20Basketball%20Transformed%20My%20Life.pdf) |
+| 2 | **Learning from the Land**: Indigenous Engineering and environmental History | [Preserving Anishinaabek's Wild Rice Harvesting Tradition.pdf](Discussion%20Posts/Discussion%20Post%202%20-%20Learning%20from%20the%20Land/Preserving%20Anishinaabek's%20Wild%20Rice%20Harvesting%20Tradition%20Amidst%20Dam%20Construction.pdf) |
 
 ---
 
 ### Assignments
 
-A comprehensive archival suite of all academic assessments, categorized by pedagogical intent and chronological progression. This section serves as a high-fidelity record of professional development, engineering discourse, and collaborative technical reporting.
+An archive of all course assessments, organized chronologically by category. This section documents technical reports, synchronous exercises, and capstone project deliverables.
 
 #### I. Foundational Pedagogical Assessments
-Standardized grammar assessments and digital composition exercises establishing the foundation of technical communication and rhetorical precision.
+Grammar assessments and composition exercises established as the foundation of technical communication.
 
 <details>
-<summary><b>McGraw Hill Connect — Composition and Grammar</b><br><i>Dynamic composition learning and standardized technical assessments</i></summary>
+<summary><b>McGraw Hill Connect — Composition and Grammar</b><br><i>Digital composition and standardized grammar module assessments</i></summary>
 <br>
 
 *   **Instructional Framework**: [Connect Composition Reference (5th Edition)](Assignments/McGraw%20Hill%20Connect/McGraw-Hill%20Connect%20Composition%205e.pdf) · [Curriculum Table of Contents](Assignments/McGraw%20Hill%20Connect/Table%20of%20Contents.html)
@@ -127,7 +127,7 @@ Standardized grammar assessments and digital composition exercises establishing 
 Independently executed research projects focusing on information literacy, rhetorical analysis, and the ethics of scholarly technical reporting.
 
 <details>
-<summary><b>Assignment 02 — Information Literacy and Rhetoric</b><br><i>Scholarly technical analysis and information literacy evaluation</i></summary>
+<summary><b>Assignment 02 — Information Literacy and Rhetoric</b><br><i>Research analysis focusing on information literacy and rhetorical strategy</i></summary>
 <br>
 
 *   **Assessment Guidelines**: [Individual Paraphrasing and Citing Instructions](Assignments/Assignment%202/Assignment%202%20(Individual)%20Paraphrasing%20Etc%20W23.pdf)
@@ -142,7 +142,7 @@ Independently executed research projects focusing on information literacy, rheto
 Synchronous in-class exercises focusing on applied rhetoric, team formation, and communicative strategy within engineering contexts.
 
 <details>
-<summary><b>In-Class Exercises Suite (Archives 01–06)</b><br><i>Synthesized drill records and communicative technique applied practice</i></summary>
+<summary><b>In-Class Exercises Suite (Archives 01–06)</b><br><i>Synchronous drills and applied practice of communicative techniques</i></summary>
 <br>
 
 *   **Exercise 01: Sustainable Development Goals**
@@ -166,7 +166,7 @@ Synchronous in-class exercises focusing on applied rhetoric, team formation, and
 A multi-phase engineering capstone focusing on home insulation technology, documented through an exhaustive archival timeline of professional deliverables and peer mentorship.
 
 <details>
-<summary><b>Project Phase I — Project Problem Description (Assignment 01)</b><br><i>Initial investigation of inefficient home insulation and carbon footprint analysis</i></summary>
+<summary><b>Project Phase I — Project Problem Description (Assignment 01)</b><br><i>Investigation of home insulation efficiency and carbon footprint analysis</i></summary>
 <br>
 
 *   **Instructional Framework**: [Project Problem Description Specifications](Assignments/Major%20Project/Assignment%201%20-%20Team%20Project%20Problem%20Description/Assignment%201%20(Team)%20Project%20Problem%20Description%20W23.pdf)
@@ -177,7 +177,7 @@ A multi-phase engineering capstone focusing on home insulation technology, docum
 </details>
 
 <details>
-<summary><b>Project Phase II — Team Project Overview (Assignment 03a)</b><br><i>Project proposal refinement and team synergy planning</i></summary>
+<summary><b>Project Phase II — Team Project Overview (Assignment 03a)</b><br><i>Refinement of the project proposal and team synergy planning</i></summary>
 <br>
 
 *   **Instructional Framework**: [Team Project Overview Parameters](Assignments/Major%20Project/Assignment%203a%20-%20Team%20Project%20Overview/Assignment%203a%20-%20Team%20Project%20Overview%20W23.pdf)
@@ -188,7 +188,7 @@ A multi-phase engineering capstone focusing on home insulation technology, docum
 </details>
 
 <details>
-<summary><b>Project Phase III — Individual Analysis Report (Assignment 03b)</b><br><i>Technical analysis of sustainable insulation for Canada's climate</i></summary>
+<summary><b>Project Phase III — Individual Analysis Report (Assignment 03b)</b><br><i>Technical analysis of insulation technology within the Canadian climate</i></summary>
 <br>
 
 *   **Instructional Framework**: [Individual Analysis Report Specifications](Assignments/Major%20Project/Assignment%203b%20-%20Individual%20Analysis%20Report/Assignment%203b%20-%20Individual%20Analysis%20Report%20W23.pdf)
@@ -199,7 +199,7 @@ A multi-phase engineering capstone focusing on home insulation technology, docum
 </details>
 
 <details>
-<summary><b>Project Phase IV — Synthesized White Paper (Assignment 04)</b><br><i>Capstone engineering white paper synthesis and technical reporting</i></summary>
+<summary><b>Project Phase IV — Synthesized White Paper (Assignment 04)</b><br><i>Synthesis of individual research into a technical white paper</i></summary>
 <br>
 
 *   **Instructional Framework**: [Synthesized White Paper Assessment Description](Assignments/Major%20Project/Assignment%204%20-%20Synthesized%20White%20Paper/Assignment%204%20-%20Synthesized%20Whitepaper%20W23.pdf)
@@ -210,7 +210,7 @@ A multi-phase engineering capstone focusing on home insulation technology, docum
 </details>
 
 <details>
-<summary><b>Project Phase V — Team Oral Presentation (Assignment 05)</b><br><i>Professional pitching and technical presentation execution</i></summary>
+<summary><b>Project Phase V — Team Oral Presentation (Assignment 05)</b><br><i>Execution of a professional pitch and technical presentation</i></summary>
 <br>
 
 *   **Instructional Framework**: [Team Oral Presentation Metrics](Assignments/Major%20Project/Assignment%205%20-%20Team%20Oral%20Presentation/Final%20Presentation%20W23.pdf)
@@ -220,7 +220,7 @@ A multi-phase engineering capstone focusing on home insulation technology, docum
 </details>
 
 <details>
-<summary><b>Collaborative Logistics — Peer Evaluation</b><br><i>Scholarly reflection on team dynamics and contribution assessment</i></summary>
+<summary><b>Collaborative Logistics — Peer Evaluation</b><br><i>Reflection on team dynamics and peer contribution assessment</i></summary>
 <br>
 
 *   **Archival Deliverables**: [Team 11 Peer Assessment Record](Assignments/Major%20Project/Peer%20Evaluation%20of%20Teamwork/Team%2011%20Amey%20Thakur%20and%20Peer%20Assessment.pdf)
