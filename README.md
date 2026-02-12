@@ -187,7 +187,7 @@ A multi-phase engineering capstone focusing on home insulation technology, docum
 </details>
 
 <details>
-<summary><b>Project Phase III — Individual Analysis Report (Assignment 03b)</b><br><i>Technical analysis of insulation technology within the Canadian climate</i></summary>
+<summary><b>Project Phase III — Individual Analysis Report (Assignment 03b)</b><br><i>Technical analysis of insulation technology within the Canadian climate · March 14, 2023</i></summary>
 <br>
 
 *   **Instructional Framework**: [Individual Analysis Report Specifications](Assignments/Major%20Project/Assignment%203b%20-%20Individual%20Analysis%20Report/Assignment%203b%20-%20Individual%20Analysis%20Report%20W23.pdf)
