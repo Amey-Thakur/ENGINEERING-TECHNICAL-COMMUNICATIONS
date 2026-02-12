@@ -111,8 +111,8 @@ An archive of all course assessments, organized chronologically by category. Thi
 #### I. Foundational Pedagogical Assessments
 Grammar assessments and composition exercises established as the foundation of technical communication.
 
-> [!TIP]
-> These modules focus on establishing a baseline for professional technical writing standards through structured grammar and composition drills.
+> [!NOTE]
+> These foundational modules establish the baseline for professional technical writing through structured drills in grammar; ensuring that all subsequent engineering reporting meets the rigorous standards of global industry documentation.
 
 <details>
 <summary><b>McGraw Hill Connect — Composition and Grammar</b><br><i>Digital composition and standardized grammar module assessments · February 15, 2023</i></summary>
@@ -129,8 +129,8 @@ Grammar assessments and composition exercises established as the foundation of t
 #### II. Individual Scholarly Milestones
 Independently executed research projects focusing on information literacy, rhetorical analysis, and the ethics of scholarly technical reporting.
 
-> [!NOTE]
-> Information literacy is emphasized here to ensure all technical reporting is built upon verified, credible sources.
+> [!TIP]
+> This research milestone marks the transition from simple **Information Retrieval** to **Critical Synthesis**. It requires the evaluation of regional **United Nations SDG** progress through the dual lenses of academic integrity and high-fidelity source verification.
 
 <details>
 <summary><b>Assignment 02 — Information Literacy and Rhetoric</b><br><i>Research analysis focusing on information literacy and rhetorical strategy · February 28, 2023</i></summary>
@@ -148,7 +148,7 @@ Independently executed research projects focusing on information literacy, rheto
 Synchronous in-class exercises focusing on applied rhetoric, team formation, and communicative strategy within engineering contexts.
 
 > [!NOTE]
-> Participation in these synchronous drills was fundamental to developing real-time communicative agility within a collaborative engineering environment.
+> These synchronous drills prioritize **Communicative Agility** by bridging theoretical rhetoric with real-world application. From mastering the **STAR Method** for professional defense to visual practice; these exercises cultivate the real-time habits required in high-stakes engineering environments.
 
 <details>
 <summary><b>In-Class Exercises Suite (Archives 01–06)</b><br><i>Synchronous drills and applied practice of communicative techniques</i></summary>
