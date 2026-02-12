@@ -112,14 +112,6 @@ Comprehensive documentation of all major academic assessments and collaborative 
 
 Weekly archival records of pedagogical discourse, guest presentations, and applied activities, organized for comprehensive academic research.
 
-### Lecture Notes
-
-Weekly archival records of pedagogical discourse, guest presentations, and applied activities, organized for comprehensive academic research.
-
-### Lecture Notes
-
-Weekly archival records of pedagogical discourse, guest presentations, and applied activities, organized for comprehensive academic research.
-
 <details>
 <summary><b>Week 01: Introduction to Rhetoric</b><br><i>Foundations of persuasive discourse and rhetorical situations</i></summary>
 <br>
