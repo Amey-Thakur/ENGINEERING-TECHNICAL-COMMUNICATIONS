@@ -240,6 +240,8 @@ Specialized assessments focusing on professional verbal delivery, simulated care
 *   **Archival Deliverables**: [Video Presentation Deliverable](Assignments/Elevator%20Talk/Amey%20Thakur%20-%20110107589%20-%20Elevator%20Talk.mp4)
 </details>
 
+---
+
 ### Lecture Notes
 
 Weekly archival records of pedagogical discourse, guest presentations, and applied activities, organized for comprehensive academic research.
