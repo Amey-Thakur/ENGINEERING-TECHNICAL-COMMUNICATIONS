@@ -91,7 +91,7 @@ Study materials and planning resources for effective academic progression:
 | 3 | [Office Hours](Office%20Hours/) | Mentorship records and professional guidance notes |
 | 4 | [Supp. Writing Resources](Supplementary%20Writing%20and%20Communications%20Resources/) | University of Windsor writing support and language development resources |
 
-### Scholarly Discussion Forum
+### Discussion Forum
 
 Academic reflections and peer discourse records focusing on personal narrative and indigenous environmental history.
 
@@ -99,6 +99,8 @@ Academic reflections and peer discourse records focusing on personal narrative a
 |:-:|:---|:---|
 | 1 | **Introductions**: Professional Identity and Personal Narrative | [How Basketball Transformed My Life.pdf](Discussion%20Posts/Discussion%20Post%201%20-%20Introductions/How%20Basketball%20Transformed%20My%20Life.pdf) |
 | 2 | **Learning from the Land**: Indigenous Engineering and Environmental Impact | [Preserving Anishinaabek's Wild Rice Harvesting Tradition.pdf](Discussion%20Posts/Discussion%20Post%202%20-%20Learning%20from%20the%20Land/Preserving%20Anishinaabek's%20Wild%20Rice%20Harvesting%20Tradition%20Amidst%20Dam%20Construction.pdf) |
+
+---
 
 ### Assignments
 
