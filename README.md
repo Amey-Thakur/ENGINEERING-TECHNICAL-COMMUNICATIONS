@@ -136,7 +136,7 @@ Weekly archival records of pedagogical content and guest presentations:
 > Comprehensive course profile from the University of Windsor, including detailed course outcomes, assessment criteria, and module specifications for Engineering Technical Communications.
 
 > [!IMPORTANT]
-> The documentation in this repository reflects the **instructor-led curriculum adaptation** specifically administered for this session. As scholarly engineering communications often involve session-specific milestones, users should note that these materials may intentionally differ from the general university-wide syllabus.
+> The documentation in this repository reflects the **instructor-led curriculum adaptation** specifically administered for this session. As engineering technical communications often involve session-specific milestones, users should note that these materials may intentionally differ from the general university-wide syllabus.
 
 ---
 
