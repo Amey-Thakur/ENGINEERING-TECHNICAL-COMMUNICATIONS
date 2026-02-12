@@ -35,7 +35,7 @@
      ========================================================================================= -->
 ## Overview
 
-Engineering Technical Communications (GENG 8000) is a foundational graduate course in the Master of Engineering (MEng) program at the [University of Windsor](https://www.uwindsor.ca). This course focuses on developing the advanced communication skills essential for professional engineers, encompassing technical reporting, scholarly writing, oral presentations, and collaborative project documentation.
+Engineering Technical Communications (GENG 8000) is a foundational graduate course in the Master of Engineering (MEng) program at the University of Windsor. This course focuses on developing the advanced communication skills essential for professional engineers, encompassing technical reporting, scholarly writing, oral presentations, and collaborative project documentation.
 
 ### Course Objectives
 
