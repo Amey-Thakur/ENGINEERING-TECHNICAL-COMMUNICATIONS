@@ -244,6 +244,9 @@ A multi-phase engineering capstone focusing on home insulation technology, docum
 #### V. Professional Oral Defense
 Specialized assessments focusing on professional verbal delivery, simulated career environments, and strategic networking communication.
 
+> [!NOTE]
+> Professional oral defense represents the zenith of an engineer's **communicative ethos**. It requires the seamless transformation of complex archival data into a compelling, synchronized narrative that bridges the gap between technical precision and interpersonal influence.
+
 <details>
 <summary><b>Elevator Talk — Professional Oral Defense</b><br><i>Simulated professional pitch and oral communication defense</i></summary>
 <br>
