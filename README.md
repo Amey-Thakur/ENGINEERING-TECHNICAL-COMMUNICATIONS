@@ -127,7 +127,7 @@ Grammar assessments and composition exercises established as the foundation of t
 Independently executed research projects focusing on information literacy, rhetorical analysis, and the ethics of scholarly technical reporting.
 
 <details>
-<summary><b>Assignment 02 — Information Literacy and Rhetoric</b><br><i>Research analysis focusing on information literacy and rhetorical strategy</i></summary>
+<summary><b>Assignment 02 — Information Literacy and Rhetoric</b><br><i>Research analysis focusing on information literacy and rhetorical strategy · February 28, 2023</i></summary>
 <br>
 
 *   **Assessment Guidelines**: [Individual Paraphrasing and Citing Instructions](Assignments/Assignment%202/Assignment%202%20(Individual)%20Paraphrasing%20Etc%20W23.pdf)
