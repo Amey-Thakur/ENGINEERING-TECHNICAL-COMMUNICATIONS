@@ -174,7 +174,7 @@ Synchronous in-class exercises focusing on applied rhetoric, team formation, and
 A multi-phase engineering capstone focusing on home insulation technology, documented through an exhaustive archival timeline of professional deliverables and peer mentorship.
 
 > [!TIP]
-> This major project aligns technical insulation research with the **United Nations Sustainable Development Goals (SDGs)**; specifically targeting **Affordable and Clean Energy (SDG 7)** and **Climate Action (SDG 13)** by optimizing thermal efficiency in Canadian residential infrastructure.
+> This project evaluates insulation technologies through the lens of the **United Nations Sustainable Development Goals (SDGs)**; specifically addressing **Affordable and Clean Energy (SDG 7)**, **Responsible Consumption and Production (SDG 12)**, and **Climate Action (SDG 13)** within the Canadian residential sector.
 
 <details>
 <summary><b>Project Phase I — Project Problem Description (Assignment 01)</b><br><i>Investigation of home insulation efficiency and carbon footprint analysis · February 17, 2023</i></summary>
@@ -244,7 +244,7 @@ A multi-phase engineering capstone focusing on home insulation technology, docum
 #### V. Professional Oral Defense
 Specialized assessments focusing on professional verbal delivery, simulated career environments, and strategic networking communication.
 
-> [!TIP]
+> [!NOTE]
 > The **Elevator Talk** is the strategic condensation of technical expertise into a high-impact, persuasive value proposition. It is a mastery of **concise rhetoric**, where an engineer must engage a stakeholder's interest within seconds; balancing technical credibility with the immediate clarity required for professional decision-making.
 
 <details>
