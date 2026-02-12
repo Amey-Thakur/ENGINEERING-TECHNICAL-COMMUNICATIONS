@@ -147,8 +147,8 @@ Independently executed research projects focusing on information literacy, rheto
 #### III. Applied Technical Drills
 Synchronous in-class exercises focusing on applied rhetoric, team formation, and communicative strategy within engineering contexts.
 
-> [!IMPORTANT]
-> Participation in these drills was fundamental to developing real-time communicative agility within a team-based engineering environment.
+> [!NOTE]
+> Participation in these synchronous drills was fundamental to developing real-time communicative agility within a collaborative engineering environment.
 
 <details>
 <summary><b>In-Class Exercises Suite (Archives 01–06)</b><br><i>Synchronous drills and applied practice of communicative techniques</i></summary>
@@ -173,8 +173,8 @@ Synchronous in-class exercises focusing on applied rhetoric, team formation, and
 #### IV. The Major Team Project Suite — Capstone Engineering Design
 A multi-phase engineering capstone focusing on home insulation technology, documented through an exhaustive archival timeline of professional deliverables and peer mentorship.
 
-> [!IMPORTANT]
-> The Major Project transcends technical reporting; it is a multi-dimensional exercise in **collaborative engineering design**. It requires the rigorous alignment of evidence-based insulation research with the ethical imperative of environmental sustainability; all while navigating the complexities of high-stakes peer mentorship and professional project orchestration.
+> [!TIP]
+> This major project aligns technical insulation research with the **United Nations Sustainable Development Goals (SDGs)**; specifically targeting **Affordable and Clean Energy (SDG 7)** and **Climate Action (SDG 13)** by optimizing thermal efficiency in Canadian residential infrastructure.
 
 <details>
 <summary><b>Project Phase I — Project Problem Description (Assignment 01)</b><br><i>Investigation of home insulation efficiency and carbon footprint analysis · February 17, 2023</i></summary>
@@ -244,7 +244,7 @@ A multi-phase engineering capstone focusing on home insulation technology, docum
 #### V. Professional Oral Defense
 Specialized assessments focusing on professional verbal delivery, simulated career environments, and strategic networking communication.
 
-> [!IMPORTANT]
+> [!TIP]
 > The **Elevator Talk** is the strategic condensation of technical expertise into a high-impact, persuasive value proposition. It is a mastery of **concise rhetoric**, where an engineer must engage a stakeholder's interest within seconds; balancing technical credibility with the immediate clarity required for professional decision-making.
 
 <details>
