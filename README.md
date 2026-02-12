@@ -133,7 +133,10 @@ Weekly archival records of pedagogical content and guest presentations:
 ## Syllabus
 
 > **[Official GENG 8000 Syllabus](GENG%208000%20-%20Engineering%20Technical%20Communications.pdf)**  
-> Comprehensive course profile from the University of Windsor, including detailed grading schemes, core competencies, and professional development milestones for GENG 8000.
+> Comprehensive course profile from the University of Windsor, including detailed course outcomes, assessment criteria, and module specifications for Engineering Technical Communications.
+
+> [!IMPORTANT]
+> Always verify the latest syllabus details with the official University of Windsor website, as curriculum updates may occur after this repository's archival date.
 
 ---
 
