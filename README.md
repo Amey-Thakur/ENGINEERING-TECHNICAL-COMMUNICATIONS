@@ -39,7 +39,7 @@ Engineering Technical Communications (GENG 8000) is a foundational graduate cour
 
 ### Course Objectives
 
-The curriculum is designed to enhance proficiency in several critical domains:
+The curriculum encompasses several key communication and technical writing domains:
 - **Professional Writing**: Crafting precise technical reports, proposals, and academic summaries.
 - **Rhetorical Analysis**: Understanding audience needs and structuring information for maximum impact.
 - **Visual Communication**: Designing effective graphs, tables, and visual aids for engineering data.
