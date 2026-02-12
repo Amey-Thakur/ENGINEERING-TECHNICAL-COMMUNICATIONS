@@ -123,8 +123,6 @@ Weekly archival records of pedagogical discourse, guest presentations, and appli
 *   **Curated Scholarly References**:
     *   [TED-Ed: The Art of Rhetoric (Camille Langston)](https://www.youtube.com/watch?v=3klMM9BkW5o) · [Ethos, Pathos, and Logos Analysis](https://www.youtube.com/watch?v=pt_udRiOm_8)
 
----
-
 #### Week 02: Writing Process and Communication Channels
 > **Pedagogical Objective**: Ethical professional correspondence, cognitive body language, and the structured engineering writing process.
 
@@ -134,8 +132,6 @@ Weekly archival records of pedagogical discourse, guest presentations, and appli
     *   [Communication Channels Methodology](Week%202/Channels%20of%20Communication.html) · [Yahoo! Ethics Case Study](Week%202/Straight%20Outta%20Sunnyvale_%20Yahoo%20manager%20gone%20after%20racially-charged%20e-mail%20-%20The%20Globe%20and%20Mail(1).pdf) · [Cognitive Body Language Analysis](Week%202/How%20to%20Read%20People%20and%20Decode%207%20Powerful%20Body%20Language.html)
 *   **Curated Scholarly References**:
     *   [The Writing Process Animation](https://www.youtube.com/watch?v=edZkuHHXDlo) · [Purdue Online Writing Lab: General Guide](https://owl.purdue.edu/owl/general_writing/the_writing_process/index.html) · [Email Professionalism Lab](https://www.youtube.com/watch?v=HTgYHHKs0Zw)
-
----
 
 #### Week 03: Collaboration and Team Dynamics
 > **Pedagogical Objective**: Scholarly investigation of team dynamics, gender discourse, and the logistics of collaborative engineering.
@@ -147,8 +143,6 @@ Weekly archival records of pedagogical discourse, guest presentations, and appli
 *   **Curated Scholarly References**:
     *   [TEDx: Cultivating Collaboration](https://www.youtube.com/watch?v=vjSTNv4gyMM) · [Harvard Business Review: Teamwork Secrets](https://hbr.org/2016/06/the-secrets-of-great-teamwork) · [Article: Name Switching at Work](https://www.independent.co.uk/news/business/news/gender-inequality-man-woman-switch-names-week-martin-schneider-nicky-knacks-pay-gap-a7622201.html)
 
----
-
 #### Week 04: IEEE Standards and Information Literacy
 > **Pedagogical Objective**: Advanced technical citation, scholarly integrity, and methodological information literacy.
 
@@ -159,8 +153,6 @@ Weekly archival records of pedagogical discourse, guest presentations, and appli
 *   **Curated Scholarly References**:
     *   [Purdue Online Writing Lab: IEEE](https://owl.purdue.edu/owl/research_and_citation/ieee_style/ieee_overview.html) · [Murdoch University: IEEE Guide](https://libguides.murdoch.edu.au/IEEE/home) · [Information Literacy Lab (Seneca)](https://library.senecacollege.ca) · [Discovery Tutorial (WLU)](https://library.wlu.ca/help/tutorials/getting-started-omni)
 
----
-
 #### Week 05: Paraphrasing and Analytical Rewriting
 > **Pedagogical Objective**: Applied technical writing drills focusing on analytical rewriting and synthesized paraphrasing.
 
@@ -168,8 +160,6 @@ Weekly archival records of pedagogical discourse, guest presentations, and appli
     *   [Lesson 1 (Thursday)](Week%205/Week%205%2C%20Lesson%201%20W23%20(Thursday).pdf)
 *   **Applied Artifacts (Activities)**:
     *   [Synthesized Paraphrasing Worksheet](Week%205/In-Class%20Activity/Rewriting%20and%20Paraphrasing%20Exercise.jpg)
-
----
 
 #### Week 06: Engineering Ethics and Professional Sins
 > **Pedagogical Objective**: Ethical responsibility in engineering and the identification of communicative "deadly sins."
@@ -181,8 +171,6 @@ Weekly archival records of pedagogical discourse, guest presentations, and appli
 *   **Curated Scholarly References**:
     *   [Communication Skills: The Seven Deadly Sins](https://www.engineering.com/story/communication-skills-for-engineers-the-seven-deadly-sins-and-how-to-overcome-them)
 
----
-
 #### Week 07: Visual Rhetoric and Data Integrity
 > **Pedagogical Objective**: Scholarly analysis of visual rhetoric, data integrity, and the prevention of graphical deception.
 
@@ -190,8 +178,6 @@ Weekly archival records of pedagogical discourse, guest presentations, and appli
     *   [Lesson 1 (Thursday)](Week%207/Week%207%2C%20Lesson%201%20W23%20(Thursday).pdf) · [Lesson 2 (Tuesday)](Week%207/Week%207%2C%20Lesson%202%20W23%20(Tuesday).pdf)
 *   **Curated Scholarly References**:
     *   [TED-Ed: Spotting Misleading Graphs](https://ed.ted.com/lessons/how-to-spot-a-misleading-graph-lea-gaslowitz#watch)
-
----
 
 #### Week 08: Persuasive Oral Communication and Pitching
 > **Pedagogical Objective**: Professional oral defense, strategic elevator talk, and scholarly pitching methodologies.
@@ -203,15 +189,11 @@ Weekly archival records of pedagogical discourse, guest presentations, and appli
 *   **Curated Scholarly References**:
     *   [Dragon's Den: Pitch Case Studies](https://www.cbc.ca/dragonsden/pitches/category/season-17) · [Three-Minute Thesis Showcase](https://cags.ca/3mt-2/) · [Vanessa Van Edwards Labs](https://www.youtube.com/watch?v=ZLWWAZ3VDiM)
 
----
-
 #### Week 09: Technical Project Finalization
 > **Pedagogical Objective**: Capstone review, peer evaluation, and the finalization of technical engineering documentation.
 
 *   **Archival Record (Lessons)**:
     *   [Lesson 1 (Thursday)](Week%209/Week%209%2C%20Lesson%201%20W23%20(Thursday).pdf)
-
----
 
 #### Week 10: Final Presentation and Exit Defense
 > **Pedagogical Objective**: Comprehensive session summary and the execution of final Master of Engineering presentations.
