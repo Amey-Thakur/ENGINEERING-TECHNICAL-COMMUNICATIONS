@@ -145,13 +145,13 @@ Weekly archival records of pedagogical content and guest presentations:
 This repository is openly shared to support learning and knowledge exchange across the academic community.
 
 **For Students**  
-Use these resources as reference materials for understanding concepts, reviewing problem-solving techniques, and preparing for examinations. All content is organized for self-paced learning.
+Use these resources as templates for technical reports, reference materials for IEEE citation standards, and examples of scholarly engineering discourse.
 
 **For Educators**  
-These materials may serve as curriculum references, assignment examples, or supplementary teaching resources. Attribution is appreciated when utilizing content.
+These materials may serve as curriculum references, sample assessment benchmarks, or supplementary instructional content in technical communications.
 
 **For Researchers**  
-The documentation and organization may provide insights into academic resource curation and educational content structuring.
+The documentation and organization may provide insights into scholarly communication patterns and professional engineering documentation structuring.
 
 ---
 
