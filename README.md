@@ -24,7 +24,7 @@
   ---
 
   <!-- Navigation Links -->
-  [Overview](#overview) &nbsp;·&nbsp; [Repository Contents](#repository-contents) &nbsp;·&nbsp; [Assignments](#assignments) &nbsp;·&nbsp; [Lecture Notes](#lecture-notes) &nbsp;·&nbsp; [Syllabus](#syllabus) &nbsp;·&nbsp; [Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
+  [Overview](#overview) &nbsp;·&nbsp; [Contents](#repository-contents) &nbsp;·&nbsp; [Reference Books](#reference-books) &nbsp;·&nbsp; [Personal Preparation](#personal-preparation) &nbsp;·&nbsp; [Discussion Forum](#discussion-forum) &nbsp;·&nbsp; [Assignments](#assignments) &nbsp;·&nbsp; [Lecture Notes](#lecture-notes) &nbsp;·&nbsp; [Syllabus](#syllabus) &nbsp;·&nbsp; [Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
 
 </div>
 
@@ -480,7 +480,7 @@ Special thanks to the **mentors** and **peers** whose encouragement, discussions
   <!-- Footer Navigation -->
   [↑ Back to Top](#engineering-technical-communications)
 
-  [Overview](#overview) &nbsp;·&nbsp; [Contents](#repository-contents) &nbsp;·&nbsp; [Assignments](#assignments) &nbsp;·&nbsp; [Lecture Notes](#lecture-notes) &nbsp;·&nbsp; [Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
+  [Overview](#overview) &nbsp;·&nbsp; [Contents](#repository-contents) &nbsp;·&nbsp; [Reference Books](#reference-books) &nbsp;·&nbsp; [Personal Preparation](#personal-preparation) &nbsp;·&nbsp; [Discussion Forum](#discussion-forum) &nbsp;·&nbsp; [Assignments](#assignments) &nbsp;·&nbsp; [Lecture Notes](#lecture-notes) &nbsp;·&nbsp; [Syllabus](#syllabus) &nbsp;·&nbsp; [Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
 
 </div>
 
