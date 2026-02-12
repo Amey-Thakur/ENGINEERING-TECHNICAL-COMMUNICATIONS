@@ -177,7 +177,7 @@ This repository and all linked academic content are made available under the **C
 **Institution**: [University of Windsor](https://www.uwindsor.ca), Windsor, Ontario  
 **Faculty**: [Faculty of Engineering](https://www.uwindsor.ca/engineering/)
 
-This repository represents a terminal record of my technical communication studies during my graduate program. It acts as a digital portfolio of professional writing, rhetorical strategies, and collaborative engineering documentation created to meet the rigorous standards of global engineering discourse.
+This repository represents a comprehensive collection of study materials, reference books, weekly lecture archives, and personal preparation notes curated during my academic journey. All content has been carefully organized and documented to serve as a valuable resource for students pursuing Engineering Technical Communications.
 
 **Connect**: [GitHub](https://github.com/Amey-Thakur) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/amey-thakur) &nbsp;·&nbsp; [ORCID](https://orcid.org/0000-0001-5644-1575)
 
