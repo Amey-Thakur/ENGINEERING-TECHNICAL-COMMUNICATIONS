@@ -176,7 +176,7 @@ A multi-phase engineering capstone focusing on home insulation technology, docum
 </details>
 
 <details>
-<summary><b>Project Phase II — Team Project Overview (Assignment 03a)</b><br><i>Refinement of the project proposal and team synergy planning</i></summary>
+<summary><b>Project Phase II — Team Project Overview (Assignment 03a)</b><br><i>Refinement of the project proposal and team synergy planning · March 14, 2023</i></summary>
 <br>
 
 *   **Instructional Framework**: [Team Project Overview Parameters](Assignments/Major%20Project/Assignment%203a%20-%20Team%20Project%20Overview/Assignment%203a%20-%20Team%20Project%20Overview%20W23.pdf)
