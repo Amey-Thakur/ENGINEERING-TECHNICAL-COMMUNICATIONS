@@ -165,7 +165,7 @@ Synchronous in-class exercises focusing on applied rhetoric, team formation, and
 A multi-phase engineering capstone focusing on home insulation technology, documented through an exhaustive archival timeline of professional deliverables and peer mentorship.
 
 <details>
-<summary><b>Project Phase I — Project Problem Description (Assignment 01)</b><br><i>Investigation of home insulation efficiency and carbon footprint analysis</i></summary>
+<summary><b>Project Phase I — Project Problem Description (Assignment 01)</b><br><i>Investigation of home insulation efficiency and carbon footprint analysis · February 17, 2023</i></summary>
 <br>
 
 *   **Instructional Framework**: [Project Problem Description Specifications](Assignments/Major%20Project/Assignment%201%20-%20Team%20Project%20Problem%20Description/Assignment%201%20(Team)%20Project%20Problem%20Description%20W23.pdf)
