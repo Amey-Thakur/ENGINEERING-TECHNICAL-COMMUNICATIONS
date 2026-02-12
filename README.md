@@ -71,14 +71,26 @@ As I progress in my career, I recognize that technical communication foundations
      ========================================================================================= -->
 ## Repository Contents
 
-### Core Resources
+### Reference Books
+This collection includes **comprehensive reference materials** covering all major topics:
 
-| Resource | Description |
-|:---|:---|
-| 📋 **[Syllabus](GENG%208000%20-%20Engineering%20Technical%20Communications.pdf)** | Official course outcomes, assessment criteria, and module specifications. |
-| 📚 **[Reference Books](Reference%20Books/)** | Primary textbooks including McGraw Hill Connect Composition 5e. |
-| ✍️ **[Supp. Resources](Supplementary%20Writing%20and%20Communications%20Resources/)** | Faculty writing support and English conversation resources. |
-| 🎓 **[View My Classes](View%20My%20Classes%20-%20Winter%202023.pdf)** | Official class schedule and enrollment record. |
+| # | Resource | Focus Area |
+|:-:|:---|:---|
+| 1 | [McGraw-Hill Connect Composition 5e](Reference%20Books/McGraw-Hill%20Connect%20Composition%205e.pdf) | Digital composition and scholarly writing exercises |
+| 2 | [Writing in the Technical Field - Thorston Ewald](Reference%20Books/Writing%20in%20the%20Technical%20Field%20-%20Thorston%20Ewald.pdf) | Advanced technical reporting and professional engineering discourse |
+
+---
+
+### Personal Preparation
+Study materials and planning resources for effective academic progression:
+
+| # | Resource | Description |
+|:-:|:---|:---|
+| 1 | [Course Syllabus](GENG%208000%20-%20Engineering%20Technical%20Communications.pdf) | Official course outcomes and assessment specifications |
+| 2 | [MEng Class Schedule](View%20My%20Classes%20-%20Winter%202023.pdf) | Enrollment record and pedagogical timeline |
+| 3 | [Discussion Posts](Discussion%20Posts/) | Scholarly reflections and peer engagement records |
+| 4 | [Office Hours](Office%20Hours/) | Mentorship records and professional guidance notes |
+| 5 | [Supp. Writing Resources](Supplementary%20Writing%20and%20Communications%20Resources/) | University of Windsor writing support and language development resources |
 
 ---
 
