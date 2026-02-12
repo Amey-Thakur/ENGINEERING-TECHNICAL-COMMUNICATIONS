@@ -96,133 +96,141 @@ Study materials and planning resources for effective academic progression:
 
 ### Assignments
 
-Comprehensive documentation of all academic assessments, categorized by pedagogical intent and chronological progression within the Winter 2023 session.
+A comprehensive archival suite of all academic assessments, categorized by pedagogical intent and chronological progression. This section serves as a high-fidelity record of professional development, engineering discourse, and collaborative technical reporting.
 
-#### Foundational Pedagogical Assessments
-Standardized grammar assessments and digital composition exercises establishing the foundation of technical communication.
+---
+
+#### I. Foundational Pedagogical Assessments
+Standardized grammar assessments and digital composition exercises establishing the foundation of technical communication and rhetorical precision.
 
 <details>
-<summary><b>McGraw Hill Connect</b><br><i>Dynamic composition learning and standardized grammar assessments</i></summary>
+<summary><b>McGraw Hill Connect — Composition and Grammar</b><br><i>Dynamic composition learning and standardized technical assessments</i></summary>
 <br>
 
-*   **Learning Platform**: [Connect Composition Reference (5th Edition)](Assignments/McGraw%20Hill%20Connect/McGraw-Hill%20Connect%20Composition%205e.pdf) · [Module Table of Contents](Assignments/McGraw%20Hill%20Connect/Table%20of%20Contents.html)
-*   **Performance Analytics**: [Grammar Module Progress Report](Assignments/McGraw%20Hill%20Connect/Grammar%20Module%20Assignment%20Report.pdf) · [Standardized Assessment Results](Assignments/McGraw%20Hill%20Connect/Results%20GENG%208000%20in%20Connect.pdf)
-*   **Submission Records**: [Platform Result Logs](Assignments/McGraw%20Hill%20Connect/Score%20for%20McGraw-Hill%20Connect.png) · [Submission History Verification](Assignments/McGraw%20Hill%20Connect/Submission%20History.png)
-*   **Administrative Artifacts**: [Order Confirmation](Assignments/McGraw%20Hill%20Connect/McGraw%20Connect%20Order%20Confirmation.png) · [Section 4 Overview](Assignments/McGraw%20Hill%20Connect/WINDSOR%20GENG%208000%20-%20Section%204.pdf)
+*   **Instructional Framework**: [Connect Composition Reference (5th Edition)](Assignments/McGraw%20Hill%20Connect/McGraw-Hill%20Connect%20Composition%205e.pdf) · [Curriculum Table of Contents](Assignments/McGraw%20Hill%20Connect/Table%20of%20Contents.html)
+*   **Archival Deliverables**: [Grammar Module Progress Report](Assignments/McGraw%20Hill%20Connect/Grammar%20Module%20Assignment%20Report.pdf) · [Pedagogical Guidance (Section 4)](Assignments/McGraw%20Hill%20Connect/WINDSOR%20GENG%208000%20-%20Section%204.pdf)
+*   **Evaluated Performance Metrics**: [Standardized Assessment Results](Assignments/McGraw%20Hill%20Connect/Results%20GENG%208000%20in%20Connect.pdf) · [Scholarly Score Card](Assignments/McGraw%20Hill%20Connect/Score%20for%20McGraw-Hill%20Connect.png)
+*   **Administrative Records**: [Digital Submission History](Assignments/McGraw%20Hill%20Connect/Submission%20History.png) · [Order Confirmation](Assignments/McGraw%20Hill%20Connect/McGraw%20Connect%20Order%20Confirmation.png) · [Instructional Feedback](Assignments/McGraw%20Hill%20Connect/Feedback%20for%20McGraw-Hill%20Connect%20-%20Engineering%20Technical%20Communications%20(Section%204)%20-%20University%20of%20Windsor.pdf)
 </details>
 
 <br>
 
-#### Individual Scholarly Milestones
-Independently executed research projects focusing on information literacy and rhetorical analysis.
+#### II. Individual Scholarly Milestones
+Independently executed research projects focusing on information literacy, rhetorical analysis, and the ethics of scholarly technical reporting.
 
 <details>
-<summary><b>Assignment 02: Information Literacy and Rhetoric</b><br><i>Scholarly technical analysis and information literacy evaluation</i></summary>
+<summary><b>Assignment 02 — Information Literacy and Rhetoric</b><br><i>Scholarly technical analysis and information literacy evaluation</i></summary>
 <br>
 
-*   **Assessment Guidelines**: [Scholarly Writing Assignment Instructions](Assignments/Assignment%202/Scholarly%20Writing%20Assignment%20Description%20W23.pdf)
-*   **Archival Deliverables**: [Final Technical Analysis Report](Assignments/Assignment%202/Amey_Thakur_Assignment_2.pdf)
-*   **Performance Metrics**: [Turnitin Similarity Report](Assignments/Assignment%202/Turnitin%20Similarity%20Report.pdf) · [Evaluation Rubric and Scores](Assignments/Assignment%202/Scores%20of%20Assignment%202.png)
+*   **Assessment Guidelines**: [Individual Paraphrasing and Citing Instructions](Assignments/Assignment%202/Assignment%202%20(Individual)%20Paraphrasing%20Etc%20W23.pdf)
+*   **Archival Deliverables**: [Final Technical Analysis Report](Assignments/Assignment%202/Tracking%20SDG%20Progress%20-%20Achievements%20and%20Challenges%20in%20Europe%20and%20Northern%20America.pdf) · [Preliminary Analysis Draft](Assignments/Assignment%202/Tracking%20SDG%20Progress%20-%20Achievements%20and%20Challenges%20in%20Europe%20and%20Northern%20America.docx)
+*   **Pedagogical Evaluation**: [Evaluation Rubric](Assignments/Assignment%202/Ruberics%20Feedback%20for%20Assignment%202%20-%20Paraphrasing%2C%20Citing%2C%20and%20Referencing.pdf) · [Inline Pedagogical Feedback](Assignments/Assignment%202/Inline%20Feedback%20for%20Assignment%202%20-%20Paraphrasing%2C%20Citing%2C%20and%20Referencing.pdf)
+*   **Submission Integrity**: [Scholarly Score Card](Assignments/Assignment%202/Score%20of%20Assignment%202.png)
 </details>
 
 <br>
 
-#### Applied Technical Drills
-Synchronous in-class exercises focusing on applied rhetoric, team formation, and communicative strategy.
+#### III. Applied Technical Drills
+Synchronous in-class exercises focusing on applied rhetoric, team formation, and communicative strategy within engineering contexts.
 
 <details>
-<summary><b>In-Class Exercises Suite (01–06)</b><br><i>Synthesized drill records and communicative technique applied practice</i></summary>
+<summary><b>In-Class Exercises Suite (Archives 01–06)</b><br><i>Synthesized drill records and communicative technique applied practice</i></summary>
 <br>
 
 *   **Exercise 01: Sustainable Development Goals**
-    *   [Instructional Overview](Assignments/In-Class%20Exercises/In-Class%20Exercise%201/In-Class%20Exercise%201%20-%20Sustainable%20Development%20Goals.png) · [Submission History](Assignments/In-Class%20Exercises/In-Class%20Exercise%201/Submission%20History%20In-Class%20Exercise%201%20-%20Sustainable%20Development%20Goals.pdf) · [Evaluation Rubric](Assignments/In-Class%20Exercises/In-Class%20Exercise%201/Ruberics%20In-Class%20Exercise%201%20-%20Sustainable%20Development%20Goals.pdf) · [Scholarly Feedback](Assignments/In-Class%20Exercises/In-Class%20Exercise%201/Feedback%20for%20In-Class%20Exercise%201%20-%20Sustainable%20Development%20Goals.pdf)
-*   **Exercise 02: Team Charter and Documentation**
-    *   [Submission History](Assignments/In-Class%20Exercises/In-Class%20Exercise%202/Submission%20History%20In-Class%20Exercise%202.pdf) · [Evaluation Rubric](Assignments/In-Class%20Exercises/In-Class%20Exercise%202/Ruberics%20In-Class%20Exercise%202.pdf)
-*   **Exercise 03: Communication Channels**
-    *   [Submission History](Assignments/In-Class%20Exercises/In-Class%20Exercise%203/Submission%20History%20In-Class%20Exercise%203.pdf) · [Evaluation Rubric](Assignments/In-Class%20Exercises/In-Class%20Exercise%203/Ruberics%20In-Class%20Exercise%203.pdf)
-*   **Exercise 04: Advanced Technical Writing**
-    *   [Submission History](Assignments/In-Class%20Exercises/In-Class%20Exercise%204/Submission%20History%20In-Class%20Exercise%204.pdf) · [Evaluation Rubric](Assignments/In-Class%20Exercises/In-Class%20Exercise%204/Ruberics%20In-Class%20Exercise%204.pdf)
-*   **Exercise 05: Visual Rhetoric and Graphics**
-    *   [Submission History](Assignments/In-Class%20Exercises/In-Class%20Exercise%205/Submission%20History%20In-Class%20Exercise%205.pdf) · [Evaluation Rubric](Assignments/In-Class%20Exercises/In-Class%20Exercise%205/Ruberics%20In-Class%20Exercise%205.pdf)
-*   **Exercise 06: Final Presentation Preparation**
-    *   [Submission History](Assignments/In-Class%20Exercises/In-Class%20Exercise%206/Submission%20History%20In-Class%20Exercise%206.pdf) · [Evaluation Rubric](Assignments/In-Class%20Exercises/In-Class%20Exercise%206/Ruberics%20In-Class%20Exercise%206.pdf)
-*   **Global Drill Archive**: [Exercise Index Documentation](Assignments/In-Class%20Exercises/Exercise%20Descriptions.pdf) · [Rhetorical Analysis Practice](Assignments/In-Class%20Exercises/Applying%20The%20Rhetorical%20Situation.pdf) · [In-Class Exercises Narrative](Assignments/In-Class%20Exercises/In-Class%20Exercises.pdf)
+    *   [Instructional Overview](Assignments/In-Class%20Exercises/In-Class%20Exercise%201/In-Class%20Exercise%201%20-%20Sustainable%20Development%20Goals.png) · [Evaluation Rubric](Assignments/In-Class%20Exercises/In-Class%20Exercise%201/Ruberics%20In-Class%20Exercise%201%20-%20Sustainable%20Development%20Goals.pdf) · [Pedagogical Feedback](Assignments/In-Class%20Exercises/In-Class%20Exercise%201/Feedback%20for%20In-Class%20Exercise%201%20-%20Sustainable%20Development%20Goals.pdf) · [Digital Submission History](Assignments/In-Class%20Exercises/In-Class%20Exercise%201/Submission%20History%20In-Class%20Exercise%201%20-%20Sustainable%20Development%20Goals.pdf)
+*   **Exercise 02: Paraphrasing and Technical Summary**
+    *   [Instructional Overview](Assignments/In-Class%20Exercises/In-Class%20Exercise%202/In-Class%20Exercise%202%20-%20Paraphrase.png) · [Evaluation Rubric](Assignments/In-Class%20Exercises/In-Class%20Exercise%202/Ruberics%20In-Class%20Exercise%202%20-%20Paraphrase.pdf) · [Pedagogical Feedback](Assignments/In-Class%20Exercises/In-Class%20Exercise%202/Feedback%20In-Class%20Exercise%202%20-%20Paraphrase.pdf) · [Digital Submission History](Assignments/In-Class%20Exercises/In-Class%20Exercise%202/Submission%20History%20In-Class%20Exercise%202%20-%20Paraphrase.pdf)
+*   **Exercise 03: Technical Sentences and Precision**
+    *   [Instructional Overview](Assignments/In-Class%20Exercises/In-Class%20Exercise%203/In-Class%20Exercise%203%20-%20Technical%20Sentences.png) · [Evaluation Rubric](Assignments/In-Class%20Exercises/In-Class%20Exercise%203/Ruberics%20In-Class%20Exercise%203%20-%20Technical%20Sentences.pdf) · [Pedagogical Feedback](Assignments/In-Class%20Exercises/In-Class%20Exercise%203/Feedback%20In-Class%20Exercise%203%20-%20Technical%20Sentences.pdf) · [Digital Submission History](Assignments/In-Class%20Exercises/In-Class%20Exercise%203/Submission%20History%20In-Class%20Exercise%203%20-%20Technical%20Sentences.pdf)
+*   **Exercise 04: Stop-Start-Continue Strategy**
+    *   [Archival Deliverable](Assignments/In-Class%20Exercises/In-Class%20Exercise%204/In-Class%20Exercise%204%20-%20Stop-Start-Continue%20Survey.pdf) · [Pedagogical Feedback](Assignments/In-Class%20Exercises/In-Class%20Exercise%204/Feedback%20In-Class%20Exercise%204%20-%20Stop-Start-Continue%20Survey.pdf) · [Digital Submission History](Assignments/In-Class%20Exercises/In-Class%20Exercise%204/Submission%20History%20In-Class%20Exercise%204%20-%20Stop-Start-Continue%20Survey.pdf)
+*   **Exercise 05: Presentations and Visual Rhetoric**
+    *   [Instructional Overview](Assignments/In-Class%20Exercises/In-Class%20Exercise%205/In-Class-Exercise%205%20-%20Presentations.png) · [Evaluation Rubric](Assignments/In-Class%20Exercises/In-Class%20Exercise%205/Ruberics%20In-Class-Exercise%205%20-%20Presentations.pdf) · [Pedagogical Feedback](Assignments/In-Class%20Exercises/In-Class%20Exercise%205/Feedback%20In-Class-Exercise%205%20-%20Presentations.pdf) · [Digital Submission History](Assignments/In-Class%20Exercises/In-Class%20Exercise%205/Submission%20History%20In-Class-Exercise%205%20-%20Presentations.pdf)
+*   **Exercise 06: Employment Communication and STAR Method**
+    *   [Instructional Overview](Assignments/In-Class%20Exercises/In-Class%20Exercise%206/In-Class%20Exercise%206%20-%20The%20STAR%20Method.png) · [Evaluation Rubric](Assignments/In-Class%20Exercises/In-Class%20Exercise%206/Ruberics%20In-Class%20Exercise%206%20-%20The%20STAR%20Method.pdf) · [Pedagogical Feedback](Assignments/In-Class%20Exercises/In-Class%20Exercise%206/Feedback%20In-Class%20Exercise%206%20-%20The%20STAR%20Method.pdf) · [Digital Submission History](Assignments/In-Class%20Exercises/In-Class%20Exercise%206/Submission%20History%20In-Class%20Exercise%206%20-%20The%20STAR%20Method.pdf)
+*   **Curriculum Resources**: [Exercise Index Documentation](Assignments/In-Class%20Exercises/Exercise%20Descriptions.pdf) · [Rhetorical Analysis Practice](Assignments/In-Class%20Exercises/Applying%20The%20Rhetorical%20Situation.pdf) · [Applied Technical Drills Narrative](Assignments/In-Class%20Exercises/In-Class%20Exercises.pdf)
 </details>
 
 <br>
 
-#### The Major Team Project Suite
-A multi-phase engineering capstone focusing on home insulation technology, documented through an exhaustive archival timeline.
+#### IV. The Major Team Project Suite — Capstone Engineering Design
+A multi-phase engineering capstone focusing on home insulation technology, documented through an exhaustive archival timeline of professional deliverables and peer mentorship.
 
 <details>
-<summary><b>Project Phase I: Problem Description (Assignment 01)</b><br><i>Initial investigation of inefficient home insulation and carbon footprint analysis</i></summary>
+<summary><b>Project Phase I — Project Problem Description (Assignment 01)</b><br><i>Initial investigation of inefficient home insulation and carbon footprint analysis</i></summary>
 <br>
 
-*   **Assessment Guidelines**: [Project Problem Description Specification](Assignments/Major%20Project/Assignment%201%20-%20Team%20Project%20Problem%20Description/Assignment%201%20(Team)%20Project%20Problem%20Description%20W23.pdf)
+*   **Instructional Framework**: [Project Problem Description Specifications](Assignments/Major%20Project/Assignment%201%20-%20Team%20Project%20Problem%20Description/Assignment%201%20(Team)%20Project%20Problem%20Description%20W23.pdf)
 *   **Archival Deliverables**: [Final Problem Description Report](Assignments/Major%20Project/Assignment%201%20-%20Team%20Project%20Problem%20Description/Group_11_-_Home_Insulation_System.pdf)
-*   **Performance Metrics**: [Submission Score Card](Assignments/Major%20Project/Assignment%201%20-%20Team%20Project%20Problem%20Description/Score%20of%20Assignment%201%20-%20Team%20Project%20Problem%20Description.png) · [Turnitin Integrity Report](Assignments/Major%20Project/Assignment%201%20-%20Team%20Project%20Problem%20Description/Turnitin%20Similarity%20Report%20for%20Assignment%201%20-%20Team%20Project%20Problem%20Description.pdf)
-*   **Instructional Feedback**: [Evaluation Rubric](Assignments/Major%20Project/Assignment%201%20-%20Team%20Project%20Problem%20Description/Ruberics%20Feedback%20for%20Assignment%201%20-%20Team%20Project%20Problem%20Description.pdf) · [Inline Pedagogical Feedback](Assignments/Major%20Project/Assignment%201%20-%20Team%20Project%20Problem%20Description/Inline%20Feedback%20for%20Assignment%201%20-%20Team%20Project%20Problem%20Description.pdf)
+*   **Pedagogical Evaluation**: [Evaluation Rubric](Assignments/Major%20Project/Assignment%201%20-%20Team%20Project%20Problem%20Description/Ruberics%20Feedback%20for%20Assignment%201%20-%20Team%20Project%20Problem%20Description.pdf) · [Inline Pedagogical Feedback](Assignments/Major%20Project/Assignment%201%20-%20Team%20Project%20Problem%20Description/Inline%20Feedback%20for%20Assignment%201%20-%20Team%20Project%20Problem%20Description.pdf)
+*   **Integrity and Performance**: [Turnitin Integrity Report](Assignments/Major%20Project/Assignment%201%20-%20Team%20Project%20Problem%20Description/Turnitin%20Similarity%20Report%20for%20Assignment%201%20-%20Team%20Project%20Problem%20Description.pdf) · [Scholarly Score Card](Assignments/Major%20Project/Assignment%201%20-%20Team%20Project%20Problem%20Description/Score%20of%20Assignment%201%20-%20Team%20Project%20Problem%20Description.png)
+*   **Administrative Records**: [Digital Acknowledgment of Submission](Assignments/Major%20Project/Assignment%201%20-%20Team%20Project%20Problem%20Description/receipt_Group%2011%20-%20Home%20Insulation%20System.pdf.pdf) · [Submission History Verification](Assignments/Major%20Project/Assignment%201%20-%20Team%20Project%20Problem%20Description/Submission%20History%20Assignment%201%20-%20Team%20Project%20Problem%20Description.pdf)
 </details>
 
 <details>
-<summary><b>Project Phase II: Team Overview (Assignment 03a)</b><br><i>Project proposal refinement and team synergy planning</i></summary>
+<summary><b>Project Phase II — Team Project Overview (Assignment 03a)</b><br><i>Project proposal refinement and team synergy planning</i></summary>
 <br>
 
-*   **Assessment Guidelines**: [Team Project Overview Parameters](Assignments/Major%20Project/Assignment%203a%20-%20Team%20Project%20Overview/Assignment%203a%20-%20Team%20Project%20Overview%20W23.pdf)
+*   **Instructional Framework**: [Team Project Overview Parameters](Assignments/Major%20Project/Assignment%203a%20-%20Team%20Project%20Overview/Assignment%203a%20-%20Team%20Project%20Overview%20W23.pdf)
 *   **Archival Deliverables**: [Home Insulation Project Overview Report](Assignments/Major%20Project/Assignment%203a%20-%20Team%20Project%20Overview/Group%2011%20-%20Efficient%20Home%20Insulation_%20Reduce%20Your%20Energy%20Bills%20and%20Carbon%20Footprint.pdf)
-*   **Performance Metrics**: [Submission Score Card](Assignments/Major%20Project/Assignment%203a%20-%20Team%20Project%20Overview/Score%20of%20Assignment%203a%20-%20Team%20Project%20Overview.png) · [Turnitin Integrity Report](Assignments/Major%20Project/Assignment%203a%20-%20Team%20Project%20Overview/Turnitin%20Similarity%20Report%20for%20Assignment%203a%20-%20Team%20Project%20Overview.pdf)
-*   **Instructional Feedback**: [Evaluation Rubric](Assignments/Major%20Project/Assignment%203a%20-%20Team%20Project%20Overview/Ruberics%20Feedback%20for%20Assignment%203a%20-%20Team%20Project%20Overview.pdf) · [Inline Pedagogical Feedback](Assignments/Major%20Project/Assignment%203a%20-%20Team%20Project%20Overview/Inline%20Feedback%20for%20Assignment%203a%20-%20Team%20Project%20Overview.pdf)
+*   **Pedagogical Evaluation**: [Evaluation Rubric](Assignments/Major%20Project/Assignment%203a%20-%20Team%20Project%20Overview/Ruberics%20Feedback%20for%20Assignment%203a%20-%20Team%20Project%20Overview.pdf) · [Inline Pedagogical Feedback](Assignments/Major%20Project/Assignment%203a%20-%20Team%20Project%20Overview/Inline%20Feedback%20for%20Assignment%203a%20-%20Team%20Project%20Overview.pdf)
+*   **Integrity and Performance**: [Turnitin Integrity Report](Assignments/Major%20Project/Assignment%203a%20-%20Team%20Project%20Overview/Turnitin%20Similarity%20Report%20for%20Assignment%203a%20-%20Team%20Project%20Overview.pdf) · [Scholarly Score Card](Assignments/Major%20Project/Assignment%203a%20-%20Team%20Project%20Overview/Score%20of%20Assignment%203a%20-%20Team%20Project%20Overview.png)
+*   **Administrative Records**: [Digital Acknowledgment of Submission](Assignments/Major%20Project/Assignment%203a%20-%20Team%20Project%20Overview/receipt_Group%2011%20-%20Efficient%20Home%20Insulation_%20Reduce%20Your%20Energy%20Bills%20and%20Carbon%20Footprint.pdf.pdf) · [Submission History Verification](Assignments/Major%20Project/Assignment%203a%20-%20Team%20Project%20Overview/Submission%20History%20Assignment%203a%20-%20Team%20Project%20Overview.pdf)
 </details>
 
 <details>
-<summary><b>Project Phase III: Individual Analysis (Assignment 03b)</b><br><i>Technical analysis of sustainable insulation for Canada's climate</i></summary>
+<summary><b>Project Phase III — Individual Analysis Report (Assignment 03b)</b><br><i>Technical analysis of sustainable insulation for Canada's climate</i></summary>
 <br>
 
-*   **Assessment Guidelines**: [Individual Analysis Report Specifications](Assignments/Major%20Project/Assignment%203b%20-%20Individual%20Analysis%20Report/Assignment%203b%20-%20Individual%20Analysis%20Report%20W23.pdf)
+*   **Instructional Framework**: [Individual Analysis Report Specifications](Assignments/Major%20Project/Assignment%203b%20-%20Individual%20Analysis%20Report/Assignment%203b%20-%20Individual%20Analysis%20Report%20W23.pdf)
 *   **Archival Deliverables**: [Individual Technical Analysis Report](Assignments/Major%20Project/Assignment%203b%20-%20Individual%20Analysis%20Report/Efficient%20and%20Sustainable%20Home%20Insulation%20Technology%20for%20Canada's%20Cold%20Climate.pdf)
-*   **Performance Metrics**: [Submission Score Card](Assignments/Major%20Project/Assignment%203b%20-%20Individual%20Analysis%20Report/Score%20of%20Assignment%203b%20-%20Individual%20Analysis%20Report.png) · [Turnitin Integrity Report](Assignments/Major%20Project/Assignment%203b%20-%20Individual%20Analysis%20Report/Turnitin%20Similarity%20Report%20for%20Assignment%203b%20-%20Individual%20Analysis%20Report.pdf)
-*   **Instructional Feedback**: [Evaluation Rubric](Assignments/Major%20Project/Assignment%203b%20-%20Individual%20Analysis%20Report/Ruberics%20for%20Assignment%203b%20-%20Individual%20Analysis%20Report.pdf) · [Inline Pedagogical Feedback](Assignments/Major%20Project/Assignment%203b%20-%20Individual%20Analysis%20Report/Inline%20feedback%20for%20Assignment%203b%20-%20Individual%20Analysis%20Report.pdf)
+*   **Pedagogical Evaluation**: [Evaluation Rubric](Assignments/Major%20Project/Assignment%203b%20-%20Individual%20Analysis%20Report/Ruberics%20for%20Assignment%203b%20-%20Individual%20Analysis%20Report.pdf) · [Inline Pedagogical Feedback](Assignments/Major%20Project/Assignment%203b%20-%20Individual%20Analysis%20Report/Inline%20feedback%20for%20Assignment%203b%20-%20Individual%20Analysis%20Report.pdf)
+*   **Integrity and Performance**: [Turnitin Integrity Report](Assignments/Major%20Project/Assignment%203b%20-%20Individual%20Analysis%20Report/Turnitin%20Similarity%20Report%20for%20Assignment%203b%20-%20Individual%20Analysis%20Report.pdf) · [Scholarly Score Card](Assignments/Major%20Project/Assignment%203b%20-%20Individual%20Analysis%20Report/Score%20of%20Assignment%203b%20-%20Individual%20Analysis%20Report.png)
+*   **Administrative Records**: [Digital Acknowledgment of Submission](Assignments/Major%20Project/Assignment%203b%20-%20Individual%20Analysis%20Report/receipt_Efficient%20and%20Sustainable%20Home%20Insulation%20Technology%20for%20Canada's%20Cold%20Climate.pdf.pdf) · [Submission History Verification](Assignments/Major%20Project/Assignment%203b%20-%20Individual%20Analysis%20Report/Submission%20History%20Assignment%203b%20-%20Individual%20Analysis%20Report.pdf)
 </details>
 
 <details>
-<summary><b>Project Phase IV: Synthesized White Paper (Assignment 04)</b><br><i>Capstone engineering white paper synthesis and reporting</i></summary>
+<summary><b>Project Phase IV — Synthesized White Paper (Assignment 04)</b><br><i>Capstone engineering white paper synthesis and technical reporting</i></summary>
 <br>
 
-*   **Assessment Guidelines**: [Synthesized White Paper Description](Assignments/Major%20Project/Assignment%204%20-%20Synthesized%20White%20Paper/Assignment%204%20-%20Synthesized%20Whitepaper%20W23.pdf)
+*   **Instructional Framework**: [Synthesized White Paper Assessment Description](Assignments/Major%20Project/Assignment%204%20-%20Synthesized%20White%20Paper/Assignment%204%20-%20Synthesized%20Whitepaper%20W23.pdf)
 *   **Archival Deliverables**: [Final Technical White Paper](Assignments/Major%20Project/Assignment%204%20-%20Synthesized%20White%20Paper/Team%2011%20-%20White%20paper.pdf)
-*   **Performance Metrics**: [Submission Score Card](Assignments/Major%20Project/Assignment%204%20-%20Synthesized%20White%20Paper/Score%20of%20Assignment%204%20-%20Synthesized%20Whitepaper.png) · [Turnitin Integrity Report](Assignments/Major%20Project/Assignment%204%20-%20Synthesized%20White%20Paper/Turnitin%20Similarity%20Report%20for%20Assignment%204%20-%20Synthesized%20Whitepaper.pdf)
-*   **Instructional Feedback**: [Evaluation Rubric](Assignments/Major%20Project/Assignment%204%20-%20Synthesized%20White%20Paper/Ruberics%20for%20Assignment%204%20-%20Synthesized%20Whitepaper.pdf) · [Inline Pedagogical Feedback](Assignments/Major%20Project/Assignment%204%20-%20Synthesized%20White%20Paper/Inline%20Feedback%20for%20Assignment%204%20-%20Synthesized%20White%20Paper.pdf)
+*   **Pedagogical Evaluation**: [Evaluation Rubric](Assignments/Major%20Project/Assignment%204%20-%20Synthesized%20White%20Paper/Ruberics%20for%20Assignment%204%20-%20Synthesized%20Whitepaper.pdf) · [Inline Pedagogical Feedback](Assignments/Major%20Project/Assignment%204%20-%20Synthesized%20White%20Paper/Inline%20Feedback%20for%20Assignment%204%20-%20Synthesized%20White%20Paper.pdf)
+*   **Integrity and Performance**: [Turnitin Integrity Report](Assignments/Major%20Project/Assignment%204%20-%20Synthesized%20White%20Paper/Turnitin%20Similarity%20Report%20for%20Assignment%204%20-%20Synthesized%20Whitepaper.pdf) · [Scholarly Score Card](Assignments/Major%20Project/Assignment%204%20-%20Synthesized%20White%20Paper/Score%20of%20Assignment%204%20-%20Synthesized%20Whitepaper.png)
+*   **Administrative Records**: [Digital Acknowledgment of Submission](Assignments/Major%20Project/Assignment%204%20-%20Synthesized%20White%20Paper/receipt_Team%2011%20-%20White%20paper.pdf.pdf) · [Submission History Verification](Assignments/Major%20Project/Assignment%204%20-%20Synthesized%20White%20Paper/Submission%20History%20Assignment%204%20-%20Synthesized%20Whitepaper.pdf)
 </details>
 
 <details>
-<summary><b>Project Phase V: Oral Presentation (Assignment 05)</b><br><i>Professional pitching and technical presentation execution</i></summary>
+<summary><b>Project Phase V — Team Oral Presentation (Assignment 05)</b><br><i>Professional pitching and technical presentation execution</i></summary>
 <br>
 
-*   **Assessment Guidelines**: [Team Oral Presentation Metrics](Assignments/Major%20Project/Assignment%205%20-%20Team%20Oral%20Presentation/Final%20Presentation%20W23.pdf)
+*   **Instructional Framework**: [Team Oral Presentation Metrics](Assignments/Major%20Project/Assignment%205%20-%20Team%20Oral%20Presentation/Final%20Presentation%20W23.pdf)
 *   **Archival Deliverables**: [Team 11 Final Presentation (PowerPoint)](Assignments/Major%20Project/Assignment%205%20-%20Team%20Oral%20Presentation/Team%2011%20Presentation.pptx)
-*   **Performance Metrics**: [Evaluation Rubric](Assignments/Major%20Project/Assignment%205%20-%20Team%20Oral%20Presentation/Ruberics%20for%20Assignment%205%20-%20Team%20Oral%20Presentation.pdf) · [Submission Score Card](Assignments/Major%20Project/Assignment%205%20-%20Team%20Oral%20Presentation/Score%20of%20Assignment%205%20-%20Team%20Oral%20Presentation.png)
+*   **Pedagogical Evaluation**: [Evaluation Rubric](Assignments/Major%20Project/Assignment%205%20-%20Team%20Oral%20Presentation/Ruberics%20for%20Assignment%205%20-%20Team%20Oral%20Presentation.pdf) · [Scholarly Score Card](Assignments/Major%20Project/Assignment%205%20-%20Team%20Oral%20Presentation/Score%20of%20Assignment%205%20-%20Team%20Oral%20Presentation.png)
+*   **Administrative Records**: [Submission History Verification](Assignments/Major%20Project/Assignment%205%20-%20Team%20Oral%20Presentation/Submission%20History%20Assignment%205%20-%20Team%20Oral%20Presentation.pdf)
 </details>
 
 <details>
-<summary><b>Collaborative Logistics: Peer Evaluation</b><br><i>Reflection on team dynamics and contribution assessment</i></summary>
+<summary><b>Collaborative Logistics — Peer Evaluation</b><br><i>Scholarly reflection on team dynamics and contribution assessment</i></summary>
 <br>
 
-*   **Assessment Record**: [Team 11 Peer Assessment Deliverable](Assignments/Major%20Project/Peer%20Evaluation%20of%20Teamwork/Team%2011%20Amey%20Thakur%20and%20Peer%20Assessment.pdf)
-*   **Mentorship Feedback**: [Feedback on Teamwork Dynamics](Assignments/Major%20Project/Peer%20Evaluation%20of%20Teamwork/Feedback%20for%20Peer%20Evaluation%20of%20Teamwork.pdf)
+*   **Archival Deliverables**: [Team 11 Peer Assessment Record](Assignments/Major%20Project/Peer%20Evaluation%20of%20Teamwork/Team%2011%20Amey%20Thakur%20and%20Peer%20Assessment.pdf)
+*   **Pedagogical Feedback**: [Scholarly Feedback on Teamwork Dynamics](Assignments/Major%20Project/Peer%20Evaluation%20of%20Teamwork/Feedback%20for%20Peer%20Evaluation%20of%20Teamwork.pdf)
+*   **Administrative Records**: [Submission History Verification](Assignments/Major%20Project/Peer%20Evaluation%20of%20Teamwork/Submission%20History%20Peer%20Evaluation%20of%20Teamwork.pdf)
 </details>
 
 <br>
 
-#### Professional Oral Defense
-Specialized assessments focusing on professional verbal delivery and strategic networking communication.
+#### V. Professional Oral Defense
+Specialized assessments focusing on professional verbal delivery, simulated career environments, and strategic networking communication.
 
 <details>
-<summary><b>Elevator Talk / Pitch</b><br><i>Simulated professional pitch and oral communication defense</i></summary>
+<summary><b>Elevator Talk — Professional Oral Defense</b><br><i>Simulated professional pitch and oral communication defense</i></summary>
 <br>
 
-*   **Assessment Guidelines**: [Elevator Talk Assignment Description](Assignments/Elevator%20Talk/Elevator%20Talk%20Description.pdf)
-*   **Archival Deliverables**: [Oral Pitch Narrative](Assignments/Elevator%20Talk/Elevator%20Talk%20Deliverable.pdf) · [Video Presentation](Assignments/Elevator%20Talk/Amey%20Thakur%20-%20110107589%20-%20Elevator%20Talk.mp4)
-*   **Performance Metrics**: [Submission Score Card](Assignments/Elevator%20Talk/Score%20of%20Elevator%20Talk.png) · [Evaluation Rubric](Assignments/Elevator%20Talk/Rubric%20for%20Elevator%20Talk.pdf)
+*   **Instructional Framework**: [Elevator Talk Assignment Description](Assignments/Elevator%20Talk/Elevator%20Talk%20Assignment%20W23%20Section%204.pdf)
+*   **Archival Deliverables**: [Video Presentation Deliverable](Assignments/Elevator%20Talk/Amey%20Thakur%20-%20110107589%20-%20Elevator%20Talk.mp4)
 </details>
 
 ---
