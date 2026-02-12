@@ -116,8 +116,12 @@ Weekly archival records of pedagogical discourse, guest presentations, and appli
 
 Weekly archival records of pedagogical discourse, guest presentations, and applied activities, organized for comprehensive academic research.
 
+### Lecture Notes
+
+Weekly archival records of pedagogical discourse, guest presentations, and applied activities, organized for comprehensive academic research.
+
 <details>
-<summary><b>Week 01: Introduction to Rhetoric</b> — Foundations of persuasive discourse and rhetorical situations</summary>
+<summary><b>Week 01: Introduction to Rhetoric</b><br><i>Foundations of persuasive discourse and rhetorical situations</i></summary>
 <br>
 
 > **Pedagogical Objective**: Foundations of persuasive discourse and the analytical study of rhetorical situations in engineering.
@@ -132,7 +136,7 @@ Weekly archival records of pedagogical discourse, guest presentations, and appli
 </details>
 
 <details>
-<summary><b>Week 02: Writing Process and Communication Channels</b> — Ethical correspondence and cognitive body language</summary>
+<summary><b>Week 02: Writing Process and Communication Channels</b><br><i>Ethical correspondence and cognitive body language</i></summary>
 <br>
 
 > **Pedagogical Objective**: Ethical professional correspondence, cognitive body language, and the structured engineering writing process.
@@ -146,7 +150,7 @@ Weekly archival records of pedagogical discourse, guest presentations, and appli
 </details>
 
 <details>
-<summary><b>Week 03: Collaboration and Team Dynamics</b> — Team dynamics, gender discourse, and collaborative logistics</summary>
+<summary><b>Week 03: Collaboration and Team Dynamics</b><br><i>Team dynamics, gender discourse, and collaborative logistics</i></summary>
 <br>
 
 > **Pedagogical Objective**: Scholarly investigation of team dynamics, gender discourse, and the logistics of collaborative engineering.
@@ -160,7 +164,7 @@ Weekly archival records of pedagogical discourse, guest presentations, and appli
 </details>
 
 <details>
-<summary><b>Week 04: IEEE Standards and Information Literacy</b> — Technical citation, scholarly integrity, and information literacy</summary>
+<summary><b>Week 04: IEEE Standards and Information Literacy</b><br><i>Technical citation, scholarly integrity, and information literacy</i></summary>
 <br>
 
 > **Pedagogical Objective**: Advanced technical citation, scholarly integrity, and methodological information literacy.
@@ -174,7 +178,7 @@ Weekly archival records of pedagogical discourse, guest presentations, and appli
 </details>
 
 <details>
-<summary><b>Week 05: Paraphrasing and Analytical Rewriting</b> — Applied technical writing drills and synthesized paraphrasing</summary>
+<summary><b>Week 05: Paraphrasing and Analytical Rewriting</b><br><i>Applied technical writing drills and synthesized paraphrasing</i></summary>
 <br>
 
 > **Pedagogical Objective**: Applied technical writing drills focusing on analytical rewriting and synthesized paraphrasing.
@@ -186,7 +190,7 @@ Weekly archival records of pedagogical discourse, guest presentations, and appli
 </details>
 
 <details>
-<summary><b>Week 06: Engineering Ethics and Professional Sins</b> — Ethical responsibility and communicative deadly sins</summary>
+<summary><b>Week 06: Engineering Ethics and Professional Sins</b><br><i>Ethical responsibility and communicative deadly sins</i></summary>
 <br>
 
 > **Pedagogical Objective**: Ethical responsibility in engineering and the identification of communicative "deadly sins."
@@ -200,7 +204,7 @@ Weekly archival records of pedagogical discourse, guest presentations, and appli
 </details>
 
 <details>
-<summary><b>Week 07: Visual Rhetoric and Data Integrity</b> — Analysis of visual rhetoric and prevention of graphical deception</summary>
+<summary><b>Week 07: Visual Rhetoric and Data Integrity</b><br><i>Analysis of visual rhetoric and prevention of graphical deception</i></summary>
 <br>
 
 > **Pedagogical Objective**: Scholarly analysis of visual rhetoric, data integrity, and the prevention of graphical deception.
@@ -212,7 +216,7 @@ Weekly archival records of pedagogical discourse, guest presentations, and appli
 </details>
 
 <details>
-<summary><b>Week 08: Persuasive Oral Communication and Pitching</b> — Oral defense and scholarly pitching methodologies</summary>
+<summary><b>Week 08: Persuasive Oral Communication and Pitching</b><br><i>Oral defense and scholarly pitching methodologies</i></summary>
 <br>
 
 > **Pedagogical Objective**: Professional oral defense, strategic elevator talk, and scholarly pitching methodologies.
@@ -226,7 +230,7 @@ Weekly archival records of pedagogical discourse, guest presentations, and appli
 </details>
 
 <details>
-<summary><b>Week 09: Technical Project Finalization</b> — Capstone review and technical documentation finalization</summary>
+<summary><b>Week 09: Technical Project Finalization</b><br><i>Capstone review and technical documentation finalization</i></summary>
 <br>
 
 > **Pedagogical Objective**: Capstone review, peer evaluation, and the finalization of technical engineering documentation.
@@ -236,7 +240,7 @@ Weekly archival records of pedagogical discourse, guest presentations, and appli
 </details>
 
 <details>
-<summary><b>Week 10: Final Presentation and Exit Defense</b> — Session summary and execution of Master of Engineering presentations</summary>
+<summary><b>Week 10: Final Presentation and Exit Defense</b><br><i>Session summary and execution of Master of Engineering presentations</i></summary>
 <br>
 
 > **Pedagogical Objective**: Comprehensive session summary and the execution of final Master of Engineering presentations.
