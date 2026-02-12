@@ -145,10 +145,10 @@ Weekly archival records of pedagogical content and guest presentations:
 This repository is openly shared to support learning and knowledge exchange across the academic community.
 
 **For Students**  
-Use these resources as templates for technical reports, reference materials for IEEE citation standards, and examples of scholarly engineering discourse.
+Use these resources as templates for technical reports, reference materials for IEEE citation standards, and examples of scholarly engineering discourse. All content is organized for self-paced learning.
 
 **For Educators**  
-These materials may serve as curriculum references, sample assessment benchmarks, or supplementary instructional content in technical communications.
+These materials may serve as curriculum references, sample assessment benchmarks, or supplementary instructional content in technical communications. Attribution is appreciated when utilizing content.
 
 **For Researchers**  
 The documentation and organization may provide insights into scholarly communication patterns and professional engineering documentation structuring.
