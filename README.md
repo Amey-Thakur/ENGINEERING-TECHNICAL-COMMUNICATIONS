@@ -126,8 +126,6 @@ Grammar assessments and composition exercises established as the foundation of t
 
 <br>
 
----
-
 #### II. Individual Scholarly Milestones
 Independently executed research projects focusing on information literacy, rhetorical analysis, and the ethics of scholarly technical reporting.
 
@@ -145,8 +143,6 @@ Independently executed research projects focusing on information literacy, rheto
 </details>
 
 <br>
-
----
 
 #### III. Applied Technical Drills
 Synchronous in-class exercises focusing on applied rhetoric, team formation, and communicative strategy within engineering contexts.
@@ -173,8 +169,6 @@ Synchronous in-class exercises focusing on applied rhetoric, team formation, and
 </details>
 
 <br>
-
----
 
 #### IV. The Major Team Project Suite — Capstone Engineering Design
 A multi-phase engineering capstone focusing on home insulation technology, documented through an exhaustive archival timeline of professional deliverables and peer mentorship.
@@ -246,8 +240,6 @@ A multi-phase engineering capstone focusing on home insulation technology, docum
 </details>
 
 <br>
-
----
 
 #### V. Professional Oral Defense
 Specialized assessments focusing on professional verbal delivery, simulated career environments, and strategic networking communication.
