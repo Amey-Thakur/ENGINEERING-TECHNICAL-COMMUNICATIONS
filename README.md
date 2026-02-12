@@ -198,7 +198,7 @@ A multi-phase engineering capstone focusing on home insulation technology, docum
 </details>
 
 <details>
-<summary><b>Project Phase IV — Synthesized White Paper (Assignment 04)</b><br><i>Synthesis of individual research into a technical white paper</i></summary>
+<summary><b>Project Phase IV — Synthesized White Paper (Assignment 04)</b><br><i>Synthesis of individual research into a technical white paper · April 05, 2023</i></summary>
 <br>
 
 *   **Instructional Framework**: [Synthesized White Paper Assessment Description](Assignments/Major%20Project/Assignment%204%20-%20Synthesized%20White%20Paper/Assignment%204%20-%20Synthesized%20Whitepaper%20W23.pdf)
@@ -209,7 +209,7 @@ A multi-phase engineering capstone focusing on home insulation technology, docum
 </details>
 
 <details>
-<summary><b>Project Phase V — Team Oral Presentation (Assignment 05)</b><br><i>Execution of a professional pitch and technical presentation</i></summary>
+<summary><b>Project Phase V — Team Oral Presentation (Assignment 05)</b><br><i>Execution of a professional pitch and technical presentation · March 27, 2023</i></summary>
 <br>
 
 *   **Instructional Framework**: [Team Oral Presentation Metrics](Assignments/Major%20Project/Assignment%205%20-%20Team%20Oral%20Presentation/Final%20Presentation%20W23.pdf)
@@ -219,7 +219,7 @@ A multi-phase engineering capstone focusing on home insulation technology, docum
 </details>
 
 <details>
-<summary><b>Collaborative Logistics — Peer Evaluation</b><br><i>Reflection on team dynamics and peer contribution assessment</i></summary>
+<summary><b>Collaborative Logistics — Peer Evaluation</b><br><i>Reflection on team dynamics and peer contribution assessment · April 05, 2023</i></summary>
 <br>
 
 *   **Archival Deliverables**: [Team 11 Peer Assessment Record](Assignments/Major%20Project/Peer%20Evaluation%20of%20Teamwork/Team%2011%20Amey%20Thakur%20and%20Peer%20Assessment.pdf)
