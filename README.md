@@ -112,7 +112,7 @@ An archive of all course assessments, organized chronologically by category. Thi
 Grammar assessments and composition exercises established as the foundation of technical communication.
 
 <details>
-<summary><b>McGraw Hill Connect — Composition and Grammar</b><br><i>Digital composition and standardized grammar module assessments</i></summary>
+<summary><b>McGraw Hill Connect — Composition and Grammar</b><br><i>Digital composition and standardized grammar module assessments · February 15, 2023</i></summary>
 <br>
 
 *   **Instructional Framework**: [Connect Composition Reference (5th Edition)](Assignments/McGraw%20Hill%20Connect/McGraw-Hill%20Connect%20Composition%205e.pdf) · [Curriculum Table of Contents](Assignments/McGraw%20Hill%20Connect/Table%20of%20Contents.html)
