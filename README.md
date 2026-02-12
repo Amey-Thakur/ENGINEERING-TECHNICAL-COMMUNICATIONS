@@ -91,6 +91,8 @@ Study materials and planning resources for effective academic progression:
 | 3 | [Office Hours](Office%20Hours/) | Mentorship records and professional guidance notes |
 | 4 | [Supp. Writing Resources](Supplementary%20Writing%20and%20Communications%20Resources/) | University of Windsor writing support and language development resources |
 
+---
+
 ### Discussion Forum
 
 Academic reflections and peer discourse records focusing on personal narrative and indigenous environmental history.
