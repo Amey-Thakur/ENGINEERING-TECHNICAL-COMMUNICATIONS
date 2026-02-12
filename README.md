@@ -174,7 +174,7 @@ Synchronous in-class exercises focusing on applied rhetoric, team formation, and
 A multi-phase engineering capstone focusing on home insulation technology, documented through an exhaustive archival timeline of professional deliverables and peer mentorship.
 
 > [!IMPORTANT]
-> This capstone project serves as the ultimate synthesis of all communication theories applied to a large-scale engineering report.
+> The Major Project transcends technical reporting; it is a multi-dimensional exercise in **collaborative engineering design**. It requires the rigorous alignment of evidence-based insulation research with the ethical imperative of environmental sustainability; all while navigating the complexities of high-stakes peer mentorship and professional project orchestration.
 
 <details>
 <summary><b>Project Phase I — Project Problem Description (Assignment 01)</b><br><i>Investigation of home insulation efficiency and carbon footprint analysis · February 17, 2023</i></summary>
