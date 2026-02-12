@@ -183,13 +183,13 @@ This repository represents a terminal record of my technical communication studi
 
 ### Acknowledgments
 
-Grateful acknowledgment to **Prof. Jesse Ziter** for his exceptional teaching in Engineering Technical Communications, which played an important role in shaping my understanding of the subject. His clear and disciplined approach, along with his careful explanation of complex ideas, made the subject both accessible and engaging. His in-class quizzes were particularly thought-provoking and mentally stimulating, fostering an interactive learning environment that enhanced my professional communication skills.
+Grateful acknowledgment to **Prof. Jesse Ziter** for his exceptional teaching in Engineering Technical Communications, which played an important role in shaping my understanding of the subject. His clear and disciplined approach, along with his careful explanation of complex ideas, made the subject both accessible and engaging. His in-class quizzes were particularly thought-provoking and analytically rigorous, fostering an interactive learning environment that strengthened my professional communication proficiency.
 
-Grateful acknowledgment to my Major Project teammates, **Jithin Giji Varghese**, **Nandeshwar Royal Uppalapati**, and **Gowrav Krishna Boyapati**, for their collaborative excellence and shared commitment throughout the semester. Our collective efforts in synthesizing technical information and developing comprehensive engineering reports were fundamental to the successful completion of our academic goals and major projects.
+Grateful acknowledgment to my Major Project teammates, **Jithin Giji Varghese**, **Nandeshwar Royal Uppalapati**, and **Gowrav Krishna Boyapati**, for their collaborative excellence and shared commitment throughout the semester. Our collective efforts in synthesizing technical information and developing comprehensive engineering reports were fundamental to achieving our academic goals and major projects.
 
-Grateful acknowledgment to **Jason Horn** at the **University of Windsor** for his guidance and instruction in Engineering Technical Communications. His systematic mentoring and continued support helped me develop a strong professional proficiency in foundational technical communication concepts and advanced scholarly documentation methods.
+Grateful acknowledgment to **Jason Horn**, **Writing Support Desk**, **University of Windsor**, for his distinguished mentorship and scholarly guidance. His thoughtful feedback and methodological precision were instrumental in strengthening the analytical depth and professional quality of my academic work. His commitment to excellence and integrity is gratefully acknowledged.
 
-Special thanks to the various mentors and peers whose encouragement, discussions, and support contributed meaningfully to this graduate learning experience.
+Special thanks to the various mentors and peers whose encouragement, discussions, and support contributed meaningfully to this learning experience.
 
 ---
 
