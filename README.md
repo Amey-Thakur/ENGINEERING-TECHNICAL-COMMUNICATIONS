@@ -258,8 +258,8 @@ Specialized assessments focusing on professional verbal delivery, simulated care
 
 Weekly archival records of pedagogical discourse, guest presentations, and applied activities, organized for comprehensive academic research.
 
-> [!NOTE]
-> Lectures followed a consistent **Thursday – Tuesday** cycle. The dates recorded below represent the instructional timeline for the Winter 2023 session at the University of Windsor.
+> [!TIP]
+> Technical communication is not merely about transmitting data; it is an exercise in **rhetorical strategy**. Every archive below explores the critical alignment between **Audience**, **Purpose**, and **Context** within the engineering profession.
 
 <details>
 <summary><b>Week 01: Introduction to Rhetoric</b><br><i>Foundations of persuasive discourse and rhetorical situations · January 05 – January 10, 2023</i></summary>
