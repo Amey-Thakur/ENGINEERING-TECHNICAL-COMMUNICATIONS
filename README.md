@@ -247,7 +247,7 @@ Specialized assessments focusing on professional verbal delivery, simulated care
 Weekly archival records of pedagogical discourse, guest presentations, and applied activities, organized for comprehensive academic research.
 
 <details>
-<summary><b>Week 01: Introduction to Rhetoric</b><br><i>Foundations of persuasive discourse and rhetorical situations</i></summary>
+<summary><b>Week 01: Introduction to Rhetoric</b><br><i>Foundations of persuasive discourse and rhetorical situations · January 05 – January 10, 2023</i></summary>
 <br>
 
 > **Pedagogical Objective**: Foundations of persuasive discourse and the analytical study of rhetorical situations in engineering.
@@ -262,7 +262,7 @@ Weekly archival records of pedagogical discourse, guest presentations, and appli
 </details>
 
 <details>
-<summary><b>Week 02: Writing Process and Communication Channels</b><br><i>Ethical correspondence and cognitive body language</i></summary>
+<summary><b>Week 02: Writing Process and Communication Channels</b><br><i>Ethical correspondence and cognitive body language · January 12 – January 17, 2023</i></summary>
 <br>
 
 > **Pedagogical Objective**: Ethical professional correspondence, cognitive body language, and the structured engineering writing process.
@@ -276,7 +276,7 @@ Weekly archival records of pedagogical discourse, guest presentations, and appli
 </details>
 
 <details>
-<summary><b>Week 03: Collaboration and Team Dynamics</b><br><i>Team dynamics, gender discourse, and collaborative logistics</i></summary>
+<summary><b>Week 03: Collaboration and Team Dynamics</b><br><i>Team dynamics, gender discourse, and collaborative logistics · January 19 – January 24, 2023</i></summary>
 <br>
 
 > **Pedagogical Objective**: Scholarly investigation of team dynamics, gender discourse, and the logistics of collaborative engineering.
@@ -290,7 +290,7 @@ Weekly archival records of pedagogical discourse, guest presentations, and appli
 </details>
 
 <details>
-<summary><b>Week 04: IEEE Standards and Information Literacy</b><br><i>Technical citation, scholarly integrity, and information literacy</i></summary>
+<summary><b>Week 04: IEEE Standards and Information Literacy</b><br><i>Technical citation, scholarly integrity, and information literacy · January 26 – January 31, 2023</i></summary>
 <br>
 
 > **Pedagogical Objective**: Advanced technical citation, scholarly integrity, and methodological information literacy.
@@ -304,7 +304,7 @@ Weekly archival records of pedagogical discourse, guest presentations, and appli
 </details>
 
 <details>
-<summary><b>Week 05: Paraphrasing and Analytical Rewriting</b><br><i>Applied technical writing drills and synthesized paraphrasing</i></summary>
+<summary><b>Week 05: Paraphrasing and Analytical Rewriting</b><br><i>Applied technical writing drills and synthesized paraphrasing · February 02 – February 07, 2023</i></summary>
 <br>
 
 > **Pedagogical Objective**: Applied technical writing drills focusing on analytical rewriting and synthesized paraphrasing.
@@ -316,7 +316,7 @@ Weekly archival records of pedagogical discourse, guest presentations, and appli
 </details>
 
 <details>
-<summary><b>Week 06: Engineering Ethics and Professional Sins</b><br><i>Ethical responsibility and communicative deadly sins</i></summary>
+<summary><b>Week 06: Engineering Ethics and Professional Sins</b><br><i>Ethical responsibility and communicative deadly sins · February 09 – February 14, 2023</i></summary>
 <br>
 
 > **Pedagogical Objective**: Ethical responsibility in engineering and the identification of communicative "deadly sins."
@@ -330,7 +330,7 @@ Weekly archival records of pedagogical discourse, guest presentations, and appli
 </details>
 
 <details>
-<summary><b>Week 07: Visual Rhetoric and Data Integrity</b><br><i>Analysis of visual rhetoric and prevention of graphical deception</i></summary>
+<summary><b>Week 07: Visual Rhetoric and Data Integrity</b><br><i>Analysis of visual rhetoric and prevention of graphical deception · February 16 – February 28, 2023</i></summary>
 <br>
 
 > **Pedagogical Objective**: Scholarly analysis of visual rhetoric, data integrity, and the prevention of graphical deception.
@@ -342,7 +342,7 @@ Weekly archival records of pedagogical discourse, guest presentations, and appli
 </details>
 
 <details>
-<summary><b>Week 08: Persuasive Oral Communication and Pitching</b><br><i>Oral defense and scholarly pitching methodologies</i></summary>
+<summary><b>Week 08: Persuasive Oral Communication and Pitching</b><br><i>Oral defense and scholarly pitching methodologies · March 02 – March 07, 2023</i></summary>
 <br>
 
 > **Pedagogical Objective**: Professional oral defense, strategic elevator talk, and scholarly pitching methodologies.
@@ -356,7 +356,7 @@ Weekly archival records of pedagogical discourse, guest presentations, and appli
 </details>
 
 <details>
-<summary><b>Week 09: Technical Project Finalization</b><br><i>Capstone review and technical documentation finalization</i></summary>
+<summary><b>Week 09: Technical Project Finalization</b><br><i>Capstone review and technical documentation finalization · March 09 – March 14, 2023</i></summary>
 <br>
 
 > **Pedagogical Objective**: Capstone review, peer evaluation, and the finalization of technical engineering documentation.
@@ -366,7 +366,7 @@ Weekly archival records of pedagogical discourse, guest presentations, and appli
 </details>
 
 <details>
-<summary><b>Week 10: Final Presentation and Exit Defense</b><br><i>Session summary and execution of Master of Engineering presentations</i></summary>
+<summary><b>Week 10: Final Presentation and Exit Defense</b><br><i>Session summary and execution of Master of Engineering presentations · March 16 – March 21, 2023</i></summary>
 <br>
 
 > **Pedagogical Objective**: Comprehensive session summary and the execution of final Master of Engineering presentations.
