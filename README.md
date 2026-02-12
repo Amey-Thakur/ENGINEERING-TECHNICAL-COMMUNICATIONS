@@ -88,17 +88,21 @@ Study materials and planning resources for effective academic progression:
 |:-:|:---|:---|
 | 1 | [Course Syllabus](GENG%208000%20-%20Engineering%20Technical%20Communications.pdf) | Official course outcomes and assessment specifications |
 | 2 | [MEng Class Schedule](View%20My%20Classes%20-%20Winter%202023.pdf) | Enrollment record and pedagogical timeline |
-| 3 | [Discussion Posts](Discussion%20Posts/) | Scholarly reflections and peer engagement records |
-| 4 | [Office Hours](Office%20Hours/) | Mentorship records and professional guidance notes |
-| 5 | [Supp. Writing Resources](Supplementary%20Writing%20and%20Communications%20Resources/) | University of Windsor writing support and language development resources |
+| 3 | [Office Hours](Office%20Hours/) | Mentorship records and professional guidance notes |
+| 4 | [Supp. Writing Resources](Supplementary%20Writing%20and%20Communications%20Resources/) | University of Windsor writing support and language development resources |
 
----
+### Scholarly Discussion Forum
+
+Academic reflections and peer discourse records focusing on personal narrative and indigenous environmental history.
+
+| # | Discussion Topic | Archival Deliverable |
+|:-:|:---|:---|
+| 1 | **Introductions**: Professional Identity and Personal Narrative | [How Basketball Transformed My Life.pdf](Discussion%20Posts/Discussion%20Post%201%20-%20Introductions/How%20Basketball%20Transformed%20My%20Life.pdf) |
+| 2 | **Learning from the Land**: Indigenous Engineering and Environmental Impact | [Preserving Anishinaabek's Wild Rice Harvesting Tradition.pdf](Discussion%20Posts/Discussion%20Post%202%20-%20Learning%20from%20the%20Land/Preserving%20Anishinaabek's%20Wild%20Rice%20Harvesting%20Tradition%20Amidst%20Dam%20Construction.pdf) |
 
 ### Assignments
 
 A comprehensive archival suite of all academic assessments, categorized by pedagogical intent and chronological progression. This section serves as a high-fidelity record of professional development, engineering discourse, and collaborative technical reporting.
-
----
 
 #### I. Foundational Pedagogical Assessments
 Standardized grammar assessments and digital composition exercises establishing the foundation of technical communication and rhetorical precision.
@@ -232,8 +236,6 @@ Specialized assessments focusing on professional verbal delivery, simulated care
 *   **Instructional Framework**: [Elevator Talk Assignment Description](Assignments/Elevator%20Talk/Elevator%20Talk%20Assignment%20W23%20Section%204.pdf)
 *   **Archival Deliverables**: [Video Presentation Deliverable](Assignments/Elevator%20Talk/Amey%20Thakur%20-%20110107589%20-%20Elevator%20Talk.mp4)
 </details>
-
----
 
 ### Lecture Notes
 
