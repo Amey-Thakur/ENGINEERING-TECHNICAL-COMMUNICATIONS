@@ -133,10 +133,10 @@ Weekly archival records of pedagogical content and guest presentations:
 ## Syllabus
 
 > **[Official GENG 8000 Syllabus](GENG%208000%20-%20Engineering%20Technical%20Communications.pdf)**  
-> Comprehensive course profile from the University of Windsor, including detailed course outcomes, assessment criteria, and module specifications for Engineering Technical Communications.
+> Official graduate-level syllabus document from the University of Windsor, including detailed course outcomes, assessment criteria, and module specifications for Engineering Technical Communications.
 
 > [!IMPORTANT]
-> The documentation in this repository reflects the **instructor-led curriculum adaptation** specifically administered for this session. As engineering technical communications often involve session-specific milestones, users should note that these materials may intentionally differ from the general university-wide syllabus.
+> The documentation in this repository reflects the **instructor-led curriculum adaptation** specifically administered for this session. As engineering technical communications involve session-specific milestones, these materials may intentionally differ from the general university-wide syllabus.
 
 ---
 
