@@ -189,7 +189,7 @@ Grateful acknowledgment to my Major Project teammates, **Jithin Giji Varghese**,
 
 Grateful acknowledgment to **Jason Horn**, **Writing Support Desk**, **University of Windsor**, for his distinguished mentorship and scholarly guidance. His thoughtful feedback and methodological precision were instrumental in strengthening the analytical depth and professional quality of my academic work. His commitment to excellence and integrity is gratefully acknowledged.
 
-Special thanks to the mentors and peers whose encouragement, discussions, and support contributed meaningfully to this learning experience.
+Special thanks to the **mentors** and **peers** whose encouragement, discussions, and support contributed meaningfully to this learning experience.
 
 ---
 
