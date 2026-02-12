@@ -54,10 +54,10 @@ As I progress in my career, I recognize that technical communication foundations
 
 **Why this repository exists:**
 
-- **Knowledge Preservation**: To maintain organized access to comprehensive study materials and professional communication templates.
-- **Continuous Learning**: To support lifelong learning by enabling easy revisitation of fundamental technical communication principles.
-- **Academic Documentation**: To authentically document my graduate learning journey through Engineering Technical Communications.
-- **Community Contribution**: To share these resources with students and researchers who may benefit from professional documentation standards.
+Knowledge Preservation: To maintain organized access to comprehensive study materials beyond the classroom
+Continuous Learning: To support lifelong learning by enabling easy revisitation of fundamental technical communication principles
+Academic Documentation: To authentically document my learning journey through Engineering Technical Communications
+Community Contribution: To share these resources with students and learners who may benefit from them
 
 > [!NOTE]
 > All materials were created, compiled, and organized by me during the Winter 2023 semester as part of my MEng degree requirements.
