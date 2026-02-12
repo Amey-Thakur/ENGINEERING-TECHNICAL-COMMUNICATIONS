@@ -111,6 +111,9 @@ An archive of all course assessments, organized chronologically by category. Thi
 #### I. Foundational Pedagogical Assessments
 Grammar assessments and composition exercises established as the foundation of technical communication.
 
+> [!TIP]
+> These modules focus on establishing a baseline for professional technical writing standards through structured grammar and composition drills.
+
 <details>
 <summary><b>McGraw Hill Connect — Composition and Grammar</b><br><i>Digital composition and standardized grammar module assessments · February 15, 2023</i></summary>
 <br>
@@ -123,8 +126,13 @@ Grammar assessments and composition exercises established as the foundation of t
 
 <br>
 
+---
+
 #### II. Individual Scholarly Milestones
 Independently executed research projects focusing on information literacy, rhetorical analysis, and the ethics of scholarly technical reporting.
+
+> [!NOTE]
+> Information literacy is emphasized here to ensure all technical reporting is built upon verified, credible sources.
 
 <details>
 <summary><b>Assignment 02 — Information Literacy and Rhetoric</b><br><i>Research analysis focusing on information literacy and rhetorical strategy · February 28, 2023</i></summary>
@@ -138,8 +146,13 @@ Independently executed research projects focusing on information literacy, rheto
 
 <br>
 
+---
+
 #### III. Applied Technical Drills
 Synchronous in-class exercises focusing on applied rhetoric, team formation, and communicative strategy within engineering contexts.
+
+> [!IMPORTANT]
+> Participation in these drills was fundamental to developing real-time communicative agility within a team-based engineering environment.
 
 <details>
 <summary><b>In-Class Exercises Suite (Archives 01–06)</b><br><i>Synchronous drills and applied practice of communicative techniques</i></summary>
@@ -161,8 +174,13 @@ Synchronous in-class exercises focusing on applied rhetoric, team formation, and
 
 <br>
 
+---
+
 #### IV. The Major Team Project Suite — Capstone Engineering Design
 A multi-phase engineering capstone focusing on home insulation technology, documented through an exhaustive archival timeline of professional deliverables and peer mentorship.
+
+> [!IMPORTANT]
+> This capstone project serves as the ultimate synthesis of all communication theories applied to a large-scale engineering report.
 
 <details>
 <summary><b>Project Phase I — Project Problem Description (Assignment 01)</b><br><i>Investigation of home insulation efficiency and carbon footprint analysis · February 17, 2023</i></summary>
@@ -229,6 +247,8 @@ A multi-phase engineering capstone focusing on home insulation technology, docum
 
 <br>
 
+---
+
 #### V. Professional Oral Defense
 Specialized assessments focusing on professional verbal delivery, simulated career environments, and strategic networking communication.
 
@@ -245,6 +265,9 @@ Specialized assessments focusing on professional verbal delivery, simulated care
 ### Lecture Notes
 
 Weekly archival records of pedagogical discourse, guest presentations, and applied activities, organized for comprehensive academic research.
+
+> [!NOTE]
+> Lectures followed a consistent **Thursday – Tuesday** cycle. The dates recorded below represent the instructional timeline for the Winter 2023 session at the University of Windsor.
 
 <details>
 <summary><b>Week 01: Introduction to Rhetoric</b><br><i>Foundations of persuasive discourse and rhetorical situations · January 05 – January 10, 2023</i></summary>
@@ -301,6 +324,9 @@ Weekly archival records of pedagogical discourse, guest presentations, and appli
     *   [IEEE Engineering Presentation (Document)](Week%204/IEEE%20Engineering%20Presentation%20(Jason%20Horn).pdf) · [IEEE Engineering Presentation (PowerPoint)](Week%204/IEEE%20Engineering%20Presentation%20(Jason%20Horn).pptx)
 *   **Curated Scholarly References**:
     *   [Purdue Online Writing Lab: IEEE](https://owl.purdue.edu/owl/research_and_citation/ieee_style/ieee_overview.html) · [Murdoch University: IEEE Guide](https://libguides.murdoch.edu.au/IEEE/home) · [Information Literacy Lab (Seneca)](https://library.senecacollege.ca) · [Discovery Tutorial (WLU)](https://library.wlu.ca/help/tutorials/getting-started-omni)
+
+> [!TIP]
+> Use the **CRAAP Test** (Currency, Relevance, Authority, Accuracy, Purpose) for evaluating all online research sources.
 </details>
 
 <details>
@@ -353,6 +379,9 @@ Weekly archival records of pedagogical discourse, guest presentations, and appli
     *   [Forbes: Professional Pitch Methodology](https://www.forbes.com/sites/nextavenue/2013/02/04/the-perfect-elevator-pitch-to-land-a-job/?sh=6c952d151b1d) · [Scholarly Pitching Logistics](https://www.thebalancemoney.com/how-to-write-an-elevator-pitch-2951690) · [Advanced Pitching Strategy](https://businessbrokendown.com/2015/09/14/a-quick-guide-to-a-killer-elevator-pitch/)
 *   **Curated Scholarly References**:
     *   [Dragon's Den: Pitch Case Studies](https://www.cbc.ca/dragonsden/pitches/category/season-17) · [Three-Minute Thesis Showcase](https://cags.ca/3mt-2/) · [Vanessa Van Edwards Labs](https://www.youtube.com/watch?v=ZLWWAZ3VDiM)
+
+> [!NOTE]
+> Week 08 marks the transition from written documentation to advanced oral defense and professional pitching strategy.
 </details>
 
 <details>
