@@ -122,9 +122,9 @@ An archive of all course assessments, organized chronologically by category. Thi
 > [!TIP]
 > This research milestone marks the transition from simple **Information Retrieval** to **Critical Synthesis**. It requires the evaluation of regional **United Nations SDG** progress through the dual lenses of academic integrity and high-fidelity source verification.
 
-| # | Scholarly Milestone | Archival Deliverables | Date |
-| :---: | :--- | :--- | :---: |
-| 1 | **Assignment 02 — Information Literacy and Rhetoric** | • [Individual Paraphrasing and Citing Instructions](Assignments/Assignment%202/Assignment%202%20(Individual)%20Paraphrasing%20Etc%20W23.pdf)<br>• [Final Technical Analysis Report](Assignments/Assignment%202/Tracking%20SDG%20Progress%20-%20Achievements%20and%20Challenges%20in%20Europe%20and%20Northern%20America.pdf)<br>• [Preliminary Analysis Draft](Assignments/Assignment%202/Tracking%20SDG%20Progress%20-%20Achievements%20and%20Challenges%20in%20Europe%20and%20Northern%20America.docx)<br>• [Evaluation Rubric](Assignments/Assignment%202/Ruberics%20Feedback%20for%20Assignment%202%20-%20Paraphrasing%2C%20Citing%2C%20and%20Referencing.pdf)<br>• [Inline Pedagogical Feedback](Assignments/Assignment%202/Inline%20Feedback%20for%20Assignment%202%20-%20Paraphrasing%2C%20Citing%2C%20and%20Referencing.pdf)<br>• [Scholarly Score Card](Assignments/Assignment%202/Score%20of%20Assignment%202.png) | February 28, 2023 |
+| # | Scholarly Milestone | Archival Deliverables | Date | Marks |
+| :---: | :--- | :--- | :---: | :---: |
+| 1 | **Assignment 02 — Information Literacy and Rhetoric** | • [Individual Paraphrasing and Citing Instructions](Assignments/Assignment%202/Assignment%202%20(Individual)%20Paraphrasing%20Etc%20W23.pdf)<br>• [Final Technical Analysis Report](Assignments/Assignment%202/Tracking%20SDG%20Progress%20-%20Achievements%20and%20Challenges%20in%20Europe%20and%20Northern%20America.pdf)<br>• [Preliminary Analysis Draft](Assignments/Assignment%202/Tracking%20SDG%20Progress%20-%20Achievements%20and%20Challenges%20in%20Europe%20and%20Northern%20America.docx)<br>• [Evaluation Rubric](Assignments/Assignment%202/Ruberics%20Feedback%20for%20Assignment%202%20-%20Paraphrasing%2C%20Citing%2C%20and%20Referencing.pdf)<br>• [Inline Pedagogical Feedback](Assignments/Assignment%202/Inline%20Feedback%20for%20Assignment%202%20-%20Paraphrasing%2C%20Citing%2C%20and%20Referencing.pdf)<br>• [Scholarly Score Card](Assignments/Assignment%202/Score%20of%20Assignment%202.png) | February 28, 2023 | 8.33/10 |
 
 #### III. Applied Technical Drills
 
