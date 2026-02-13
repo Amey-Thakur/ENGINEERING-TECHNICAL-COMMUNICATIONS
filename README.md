@@ -259,12 +259,12 @@ Specialized assessments focusing on professional verbal delivery, simulated care
 
 ### Lecture Notes
 
-A chronological instructional log documenting the pedagogical discourse, weekly session timelines, and core lecture content for Winter 2023.
+A chronological instructional log documenting the pedagogical discourse, weekly session timelines, and core lecture content from my own academic lectures during the Winter 2023 session.
 
 > [!TIP]
 > Technical communication is not merely about transmitting data; it is an exercise in **rhetorical strategy**. Every archive below explores the critical alignment between **Audience**, **Purpose**, and **Context** within the engineering profession.
 
-| # | Week | Day | Date | Rhetorical Focus | Lecture Slides |
+| # | Week | Session | Date | Rhetorical Focus | Lecture Slides |
 | :---: | :---: | :---: | :---: | :--- | :---: |
 | 1 | **Week 01** | Thursday | January 05, 2023 | Introduction to Rhetoric | [View](Week%201/Week%201%2C%20Lesson%201%20W23%20(Thursday).pdf) |
 | 2 | **Week 01** | Tuesday | January 10, 2023 | Rhetorical Situations | [View](Week%201/Week%201%2C%20Lesson%202%20W23%20(Tuesday).pdf) |
@@ -284,26 +284,26 @@ A chronological instructional log documenting the pedagogical discourse, weekly 
 | 16 | **Week 10** | Thursday | March 16, 2023 | Exit Defense | [View](Week%2010/Week%2010%2C%20Lesson%201%20W23%20(Thursday).pdf) |
 
 > [!NOTE]
-> The specialized repository below provides an exhaustive breakdown of applied pedagogical artifacts, guest presentation protocols, and curated scholarly references corresponding to each session in the chronological archive.
+> The specialized table below provides an exhaustive breakdown of applied pedagogical artifacts, guest presentation protocols, and curated scholarly references corresponding to each session in the chronological archive.
 
-| # | Week | Day | Applied Pedagogical Artifacts & Scholarly References |
-| :---: | :---: | :---: | :--- |
-| 1 | **Week 01** | Thursday | • [Reading for Rhetorical Situation - An Engineer's Rhetorical Journey - Burton](Week%201/Class%20Activity/Reading%20for%20Rhetorical%20Situation%20-%20An%20Engineer's%20Rhetorical%20Journey%20-%20Burton.pdf)<br>• [Questions](Week%201/Class%20Activity/Questions.jpg) |
-| 2 | **Week 01** | Tuesday | • [1](Week%201/Class%20Activity/1.jpg)<br>• [2](Week%201/Class%20Activity/2.jpg)<br>• [3a](Week%201/Class%20Activity/3a.jpg)<br>• [3b](Week%201/Class%20Activity/3b.jpg)<br>• [3c](Week%201/Class%20Activity/3c.jpg)<br>• [WINDSOR GENG 8000 - McGraw Connect Composition](Week%201/WINDSOR%20GENG%208000%20-%20McGraw%20Connect%20Composition.pdf)<br>• [Art of Rhetoric](https://www.youtube.com/watch?v=3klMM9BkW5o)<br>• [Ethos/Logos](https://www.youtube.com/watch?v=pt_udRiOm_8) |
-| 3 | **Week 02** | Thursday | — |
-| 4 | **Week 02** | Tuesday | • [Channels of Communication](Week%202/Channels%20of%20Communication.html)<br>• [Straight Outta Sunnyvale_ Yahoo manager gone after racially-charged e-mail - The Globe and Mail(1)](Week%202/Straight%20Outta%20Sunnyvale_%20Yahoo%20manager%20gone%20after%20racially-charged%20e-mail%20-%20The%20Globe%20and%20Mail(1).pdf)<br>• [How to Read People and Decode 7 Powerful Body Language](Week%202/How%20to%20Read%20People%20and%20Decode%207%20Powerful%20Body%20Language.html)<br>• [Process Animation](https://www.youtube.com/watch?v=edZkuHHXDlo)<br>• [Purdue OWL](https://owl.purdue.edu/owl/general_writing/the_writing_process/index.html)<br>• [Email Lab](https://www.youtube.com/watch?v=HTgYHHKs0Zw) |
-| 5 | **Week 03** | Thursday | — |
-| 6 | **Week 03** | Tuesday | • [Forming storming norming performing and adjourning](Week%203/Forming%20storming%20norming%20performing%20and%20adjourning.html)<br>• [How language shapes the way we think Lera Boroditsky](Week%203/How%20language%20shapes%20the%20way%20we%20think%20Lera%20Boroditsky.html)<br>• [How miscommunication happens (and how to avoid it)](Week%203/How%20miscommunication%20happens%20(and%20how%20to%20avoid%20it).html)<br>• [Collaboration](https://www.youtube.com/watch?v=vjSTNv4gyMM)<br>• [HBR Secrets](https://hbr.org/2016/06/the-secrets-of-great-teamwork)<br>• [Article: Name Switching](https://www.independent.co.uk/news/business/news/gender-inequality-man-woman-switch-names-week-martin-schneider-nicky-knacks-pay-gap-a7622201.html) |
-| 7 | **Week 04** | Thursday | — |
-| 8 | **Week 04** | Tuesday | • [CRAAP](Week%204/CRAAP.pdf)<br>• [IEEE Engineering Presentation (Jason Horn)](Week%204/IEEE%20Engineering%20Presentation%20(Jason%20Horn).pdf)<br>• [Purdue IEEE](https://owl.purdue.edu/owl/research_and_citation/ieee_style/ieee_overview.html)<br>• [Murdoch Guide](https://libguides.murdoch.edu.au/IEEE/home)<br>• [Discovery Lab](https://library.wlu.ca/help/tutorials/getting-started-omni) |
-| 9 | **Week 05** | Thursday | • [Rewriting and Paraphrasing Exercise](Week%205/In-Class%20Activity/Rewriting%20and%20Paraphrasing%20Exercise.jpg) |
-| 10 | **Week 06** | Thursday | — |
-| 11 | **Week 06** | Tuesday | • [Stop-Start-Continue Survey - Engineering Technical Communications (Section 4)](Week%206/Stop-Start-Continue%20Survey%20-%20Engineering%20Technical%20Communications%20(Section%204).pdf)<br>• [Survey Submission](Week%206/Survey%20Submission.png)<br>• [The Seven Deadly Sins](https://www.engineering.com/story/communication-skills-for-engineers-the-seven-deadly-sins-and-how-to-overcome-them) |
-| 12 | **Week 07** | Thursday | — |
-| 13 | **Week 07** | Tuesday | • [Spotting Misleading Graphs](https://ed.ted.com/lessons/how-to-spot-a-misleading-graph-lea-gaslowitz#watch) |
-| 14 | **Week 08** | Tuesday | • [The Perfect Elevator Pitch to Land a Job](https://www.forbes.com/sites/nextavenue/2013/02/04/the-perfect-elevator-pitch-to-land-a-job/?sh=6c952d151b1d)<br>• [How to Write an Elevator Pitch](https://www.thebalancemoney.com/how-to-write-an-elevator-pitch-2951690)<br>• [A Quick Guide to a Killer Elevator Pitch](https://businessbrokendown.com/2015/09/14/a-quick-guide-to-a-killer-elevator-pitch/)<br>• [Dragons' Den](https://www.cbc.ca/dragonsden/pitches/category/season-17)<br>• [3MT Thesis](https://cags.ca/3mt-2/)<br>• [Vanessa Edwards](https://www.youtube.com/watch?v=ZLWWAZ3VDiM) |
-| 15 | **Week 09** | Thursday | — |
-| 16 | **Week 10** | Thursday | • [MEng Presentation Package](Week%2010/MEng%20Presentation%20Package.pdf) |
+| # | Week | Session | Date | Applied Pedagogical Artifacts & Scholarly References |
+| :---: | :---: | :---: | :---: | :--- |
+| 1 | **Week 01** | Thursday | January 05, 2023 | • [Reading for Rhetorical Situation - An Engineer's Rhetorical Journey - Burton](Week%201/Class%20Activity/Reading%20for%20Rhetorical%20Situation%20-%20An%20Engineer's%20Rhetorical%20Journey%20-%20Burton.pdf)<br>• [Questions](Week%201/Class%20Activity/Questions.jpg) |
+| 2 | **Week 01** | Tuesday | January 10, 2023 | • [1](Week%201/Class%20Activity/1.jpg)<br>• [2](Week%201/Class%20Activity/2.jpg)<br>• [3a](Week%201/Class%20Activity/3a.jpg)<br>• [3b](Week%201/Class%20Activity/3b.jpg)<br>• [3c](Week%201/Class%20Activity/3c.jpg)<br>• [WINDSOR GENG 8000 - McGraw Connect Composition](Week%201/WINDSOR%20GENG%208000%20-%20McGraw%20Connect%20Composition.pdf)<br>• [Art of Rhetoric](https://www.youtube.com/watch?v=3klMM9BkW5o)<br>• [Ethos/Logos](https://www.youtube.com/watch?v=pt_udRiOm_8) |
+| 3 | **Week 02** | Thursday | January 12, 2023 | — |
+| 4 | **Week 02** | Tuesday | January 17, 2023 | • [Channels of Communication](Week%202/Channels%20of%20Communication.html)<br>• [Straight Outta Sunnyvale_ Yahoo manager gone after racially-charged e-mail - The Globe and Mail(1)](Week%202/Straight%20Outta%20Sunnyvale_%20Yahoo%20manager%20gone%20after%20racially-charged%20e-mail%20-%20The%20Globe%20and%20Mail(1).pdf)<br>• [How to Read People and Decode 7 Powerful Body Language](Week%202/How%20to%20Read%20People%20and%20Decode%207%20Powerful%20Body%20Language.html)<br>• [Process Animation](https://www.youtube.com/watch?v=edZkuHHXDlo)<br>• [Purdue OWL](https://owl.purdue.edu/owl/general_writing/the_writing_process/index.html)<br>• [Email Lab](https://www.youtube.com/watch?v=HTgYHHKs0Zw) |
+| 5 | **Week 03** | Thursday | January 19, 2023 | — |
+| 6 | **Week 03** | Tuesday | January 24, 2023 | • [Forming storming norming performing and adjourning](Week%203/Forming%20storming%20norming%20performing%20and%20adjourning.html)<br>• [How language shapes the way we think Lera Boroditsky](Week%203/How%20language%20shapes%20the%20way%20we%20think%20Lera%20Boroditsky.html)<br>• [How miscommunication happens (and how to avoid it)](Week%203/How%20miscommunication%20happens%20(and%20how%20to%20avoid%20it).html)<br>• [Collaboration](https://www.youtube.com/watch?v=vjSTNv4gyMM)<br>• [HBR Secrets](https://hbr.org/2016/06/the-secrets-of-great-teamwork)<br>• [Article: Name Switching](https://www.independent.co.uk/news/business/news/gender-inequality-man-woman-switch-names-week-martin-schneider-nicky-knacks-pay-gap-a7622201.html) |
+| 7 | **Week 04** | Thursday | January 26, 2023 | — |
+| 8 | **Week 04** | Tuesday | January 31, 2023 | • [CRAAP](Week%204/CRAAP.pdf)<br>• [IEEE Engineering Presentation (Jason Horn)](Week%204/IEEE%20Engineering%20Presentation%20(Jason%20Horn).pdf)<br>• [Purdue IEEE](https://owl.purdue.edu/owl/research_and_citation/ieee_style/ieee_overview.html)<br>• [Murdoch Guide](https://libguides.murdoch.edu.au/IEEE/home)<br>• [Discovery Lab](https://library.wlu.ca/help/tutorials/getting-started-omni) |
+| 9 | **Week 05** | Thursday | February 02, 2023 | • [Rewriting and Paraphrasing Exercise](Week%205/In-Class%20Activity/Rewriting%20and%20Paraphrasing%20Exercise.jpg) |
+| 10 | **Week 06** | Thursday | February 09, 2023 | — |
+| 11 | **Week 06** | Tuesday | February 14, 2023 | • [Stop-Start-Continue Survey - Engineering Technical Communications (Section 4)](Week%206/Stop-Start-Continue%20Survey%20-%20Engineering%20Technical%20Communications%20(Section%204).pdf)<br>• [Survey Submission](Week%206/Survey%20Submission.png)<br>• [The Seven Deadly Sins](https://www.engineering.com/story/communication-skills-for-engineers-the-seven-deadly-sins-and-how-to-overcome-them) |
+| 12 | **Week 07** | Thursday | February 16, 2023 | — |
+| 13 | **Week 07** | Tuesday | February 28, 2023 | • [Spotting Misleading Graphs](https://ed.ted.com/lessons/how-to-spot-a-misleading-graph-lea-gaslowitz#watch) |
+| 14 | **Week 08** | Tuesday | March 07, 2023 | • [The Perfect Elevator Pitch to Land a Job](https://www.forbes.com/sites/nextavenue/2013/02/04/the-perfect-elevator-pitch-to-land-a-job/?sh=6c952d151b1d)<br>• [How to Write an Elevator Pitch](https://www.thebalancemoney.com/how-to-write-an-elevator-pitch-2951690)<br>• [A Quick Guide to a Killer Elevator Pitch](https://businessbrokendown.com/2015/09/14/a-quick-guide-to-a-killer-elevator-pitch/)<br>• [Dragons' Den](https://www.cbc.ca/dragonsden/pitches/category/season-17)<br>• [3MT Thesis](https://cags.ca/3mt-2/)<br>• [Vanessa Edwards](https://www.youtube.com/watch?v=ZLWWAZ3VDiM) |
+| 15 | **Week 09** | Thursday | March 09, 2023 | — |
+| 16 | **Week 10** | Thursday | March 16, 2023 | • [MEng Presentation Package](Week%2010/MEng%20Presentation%20Package.pdf) |
 
 ---
 
