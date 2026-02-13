@@ -259,7 +259,7 @@ Specialized assessments focusing on professional verbal delivery, simulated care
 
 ### Lecture Notes
 
-A chronological instructional log documenting the pedagogical discourse, weekly session timelines, and core lecture content from my own academic lectures during the Winter 2023 session.
+A comprehensive archival log documenting pedagogical discourse, session timelines, and core instructional content for the Winter 2023 session.
 
 > [!TIP]
 > Technical communication is not merely about transmitting data; it is an exercise in **rhetorical strategy**. Every archive below explores the critical alignment between **Audience**, **Purpose**, and **Context** within the engineering profession.
