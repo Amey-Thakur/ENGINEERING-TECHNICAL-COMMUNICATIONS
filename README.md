@@ -284,7 +284,7 @@ A comprehensive archival log documenting pedagogical discourse, session timeline
 | 16 | **Week 10** | Thursday | March 16, 2023 | Exit Defense | [View](Week%2010/Week%2010%2C%20Lesson%201%20W23%20(Thursday).pdf) |
 
 > [!NOTE]
-> The specialized table below provides an exhaustive breakdown of applied pedagogical artifacts, guest presentation protocols, and curated scholarly references corresponding to each session in the chronological archive.
+> The specialized table below provides an exhaustive breakdown of applied pedagogical artifacts, guest presentations, and curated scholarly references corresponding to each session in the chronological archive.
 
 | # | Week | Session | Date | Applied Pedagogical Artifacts & Scholarly References |
 | :---: | :---: | :---: | :---: | :--- |
