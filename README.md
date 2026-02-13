@@ -264,142 +264,18 @@ Weekly archival records of pedagogical discourse, guest presentations, and appli
 > [!TIP]
 > Technical communication is not merely about transmitting data; it is an exercise in **rhetorical strategy**. Every archive below explores the critical alignment between **Audience**, **Purpose**, and **Context** within the engineering profession.
 
-<details>
-<summary><b>Week 01: Introduction to Rhetoric</b><br><i>Foundations of persuasive discourse and rhetorical situations · January 05 – January 10, 2023</i></summary>
-<br>
-
-> **Pedagogical Objective**: Foundations of persuasive discourse and the analytical study of rhetorical situations in engineering.
-
-*   **Archival Record (Lessons)**:
-    *   [Lesson 1 (Thursday)](Week%201/Week%201%2C%20Lesson%201%20W23%20(Thursday).pdf) · [Lesson 2 (Tuesday)](Week%201/Week%201%2C%20Lesson%202%20W23%20(Tuesday).pdf) · [Connect Composition](Week%201/WINDSOR%20GENG%208000%20-%20McGraw%20Connect%20Composition.pdf)
-*   **Applied Artifacts (Activities)**:
-    *   **Worksheets**: [Rhetorical Journey Reading](Week%201/Class%20Activity/Reading%20for%20Rhetorical%20Situation%20-%20An%20Engineer's%20Rhetorical%20Journey%20-%20Burton.pdf) · [Applied Exercises](Week%201/Class%20Activity/Questions.jpg)
-    *   **Visual Corpus**: [Visual Artifact 1](Week%201/Class%20Activity/1.jpg) · [Visual Artifact 2](Week%201/Class%20Activity/2.jpg) · [Visual Artifact 3a](Week%201/Class%20Activity/3a.jpg) · [Visual Artifact 3b](Week%201/Class%20Activity/3b.jpg) · [Visual Artifact 3c](Week%201/Class%20Activity/3c.jpg)
-*   **Curated Scholarly References**:
-    *   [TED-Ed: The Art of Rhetoric (Camille Langston)](https://www.youtube.com/watch?v=3klMM9BkW5o) · [Ethos, Pathos, and Logos Analysis](https://www.youtube.com/watch?v=pt_udRiOm_8)
-</details>
-
-<details>
-<summary><b>Week 02: Writing Process and Communication Channels</b><br><i>Ethical correspondence and cognitive body language · January 12 – January 17, 2023</i></summary>
-<br>
-
-> **Pedagogical Objective**: Ethical professional correspondence, cognitive body language, and the structured engineering writing process.
-
-*   **Archival Record (Lessons)**:
-    *   [Lesson 1 (Thursday)](Week%202/Week%202%2C%20Lesson%201%20W23%20(Thursday).pdf) · [Lesson 2 (Tuesday)](Week%202/Week%202%2C%20Lesson%202%20W23%20(Tuesday).pdf)
-*   **Applied Artifacts (Documentation)**:
-    *   [Communication Channels Methodology](Week%202/Channels%20of%20Communication.html) · [Yahoo! Ethics Case Study](Week%202/Straight%20Outta%20Sunnyvale_%20Yahoo%20manager%20gone%20after%20racially-charged%20e-mail%20-%20The%20Globe%20and%20Mail(1).pdf) · [Cognitive Body Language Analysis](Week%202/How%20to%20Read%20People%20and%20Decode%207%20Powerful%20Body%20Language.html)
-*   **Curated Scholarly References**:
-    *   [The Writing Process Animation](https://www.youtube.com/watch?v=edZkuHHXDlo) · [Purdue Online Writing Lab: General Guide](https://owl.purdue.edu/owl/general_writing/the_writing_process/index.html) · [Email Professionalism Lab](https://www.youtube.com/watch?v=HTgYHHKs0Zw)
-</details>
-
-<details>
-<summary><b>Week 03: Collaboration and Team Dynamics</b><br><i>Team dynamics, gender discourse, and collaborative logistics · January 19 – January 24, 2023</i></summary>
-<br>
-
-> **Pedagogical Objective**: Scholarly investigation of team dynamics, gender discourse, and the logistics of collaborative engineering.
-
-*   **Archival Record (Lessons)**:
-    *   [Lesson 1 (Thursday)](Week%203/Week%203%2C%20Lesson%201%20W23%20(Thursday).pdf) · [Asynchronous Project Introduction (Video)](Week%203/Week%203%2C%20Lesson%202%20Asynchronous%20Content%20-%20Project%20Description%20Overview.mp4)
-*   **Applied Artifacts (Theory)**:
-    *   [Teamwork Collaboration Dynamics](Week%203/Forming%20storming%20norming%20performing%20and%20adjourning.html) · [Cognitive Linguistics: Lera Boroditsky](Week%203/How%20language%20shapes%20the%20way%20we%20think%20Lera%20Boroditsky.html) · [Miscommunication Prevention Lab](Week%203/How%20miscommunication%20happens%20(and%20how%20to%20avoid%20it).html)
-*   **Curated Scholarly References**:
-    *   [TEDx: Cultivating Collaboration](https://www.youtube.com/watch?v=vjSTNv4gyMM) · [Harvard Business Review: Teamwork Secrets](https://hbr.org/2016/06/the-secrets-of-great-teamwork) · [Article: Name Switching at Work](https://www.independent.co.uk/news/business/news/gender-inequality-man-woman-switch-names-week-martin-schneider-nicky-knacks-pay-gap-a7622201.html)
-</details>
-
-<details>
-<summary><b>Week 04: IEEE Standards and Information Literacy</b><br><i>Technical citation, scholarly integrity, and information literacy · January 26 – January 31, 2023</i></summary>
-<br>
-
-> **Pedagogical Objective**: Advanced technical citation, scholarly integrity, and methodological information literacy.
-
-*   **Archival Record (Lessons)**:
-    *   [Lesson 1 (Thursday)](Week%204/Week%204%2C%20Lesson%201%20W23%20(Thursday).pdf) · [Lesson 2 (Tuesday)](Week%204/Week%204%2C%20Lesson%202%20W23%20(Tuesday).pdf) · [CRAAP Assessment Protocol](Week%204/CRAAP.pdf)
-*   **Guest Presentation (Jason Horn)**:
-    *   [IEEE Engineering Presentation (Document)](Week%204/IEEE%20Engineering%20Presentation%20(Jason%20Horn).pdf) · [IEEE Engineering Presentation (PowerPoint)](Week%204/IEEE%20Engineering%20Presentation%20(Jason%20Horn).pptx)
-*   **Curated Scholarly References**:
-    *   [Purdue Online Writing Lab: IEEE](https://owl.purdue.edu/owl/research_and_citation/ieee_style/ieee_overview.html) · [Murdoch University: IEEE Guide](https://libguides.murdoch.edu.au/IEEE/home) · [Information Literacy Lab (Seneca)](https://library.senecacollege.ca) · [Discovery Tutorial (WLU)](https://library.wlu.ca/help/tutorials/getting-started-omni)
-
-> [!TIP]
-> Use the **CRAAP Test** (Currency, Relevance, Authority, Accuracy, Purpose) for evaluating all online research sources.
-</details>
-
-<details>
-<summary><b>Week 05: Paraphrasing and Analytical Rewriting</b><br><i>Applied technical writing drills and synthesized paraphrasing · February 02 – February 07, 2023</i></summary>
-<br>
-
-> **Pedagogical Objective**: Applied technical writing drills focusing on analytical rewriting and synthesized paraphrasing.
-
-*   **Archival Record (Lessons)**:
-    *   [Lesson 1 (Thursday)](Week%205/Week%205%2C%20Lesson%201%20W23%20(Thursday).pdf)
-*   **Applied Artifacts (Activities)**:
-    *   [Synthesized Paraphrasing Worksheet](Week%205/In-Class%20Activity/Rewriting%20and%20Paraphrasing%20Exercise.jpg)
-</details>
-
-<details>
-<summary><b>Week 06: Engineering Ethics and Professional Sins</b><br><i>Ethical responsibility and communicative deadly sins · February 09 – February 14, 2023</i></summary>
-<br>
-
-> **Pedagogical Objective**: Ethical responsibility in engineering and the identification of communicative "deadly sins."
-
-*   **Archival Record (Lessons)**:
-    *   [Lesson 1 (Thursday)](Week%206/Week%206%2C%20Lesson%201%20W23%20(Thursday).pdf) · [Lesson 2 (Tuesday)](Week%206/Week%206%2C%20Lesson%202%20W23%20(Tuesday).pdf)
-*   **Applied Artifacts (Assessment)**:
-    *   [Section 4 Pedagogical Feedback Survey](Week%206/Stop-Start-Continue%20Survey%20-%20Engineering%20Technical%20Communications%20(Section%204).pdf) · [Digital Submission Record](Week%206/Survey%20Submission.png)
-*   **Curated Scholarly References**:
-    *   [Communication Skills: The Seven Deadly Sins](https://www.engineering.com/story/communication-skills-for-engineers-the-seven-deadly-sins-and-how-to-overcome-them)
-</details>
-
-<details>
-<summary><b>Week 07: Visual Rhetoric and Data Integrity</b><br><i>Analysis of visual rhetoric and prevention of graphical deception · February 16 – February 28, 2023</i></summary>
-<br>
-
-> **Pedagogical Objective**: Scholarly analysis of visual rhetoric, data integrity, and the prevention of graphical deception.
-
-*   **Archival Record (Lessons)**:
-    *   [Lesson 1 (Thursday)](Week%207/Week%207%2C%20Lesson%201%20W23%20(Thursday).pdf) · [Lesson 2 (Tuesday)](Week%207/Week%207%2C%20Lesson%202%20W23%20(Tuesday).pdf)
-*   **Curated Scholarly References**:
-    *   [TED-Ed: Spotting Misleading Graphs](https://ed.ted.com/lessons/how-to-spot-a-misleading-graph-lea-gaslowitz#watch)
-</details>
-
-<details>
-<summary><b>Week 08: Persuasive Oral Communication and Pitching</b><br><i>Oral defense and scholarly pitching methodologies · March 02 – March 07, 2023</i></summary>
-<br>
-
-> **Pedagogical Objective**: Professional oral defense, strategic elevator talk, and scholarly pitching methodologies.
-
-*   **Archival Record (Lessons)**:
-    *   [Lesson 2 (Tuesday)](Week%208/Week%208%2C%20Lesson%202%20W23%20(Tuesday).pdf)
-*   **Applied Artifacts (Guides)**:
-    *   [Forbes: Professional Pitch Methodology](https://www.forbes.com/sites/nextavenue/2013/02/04/the-perfect-elevator-pitch-to-land-a-job/?sh=6c952d151b1d) · [Scholarly Pitching Logistics](https://www.thebalancemoney.com/how-to-write-an-elevator-pitch-2951690) · [Advanced Pitching Strategy](https://businessbrokendown.com/2015/09/14/a-quick-guide-to-a-killer-elevator-pitch/)
-*   **Curated Scholarly References**:
-    *   [Dragon's Den: Pitch Case Studies](https://www.cbc.ca/dragonsden/pitches/category/season-17) · [Three-Minute Thesis Showcase](https://cags.ca/3mt-2/) · [Vanessa Van Edwards Labs](https://www.youtube.com/watch?v=ZLWWAZ3VDiM)
-
-> [!NOTE]
-> Week 08 marks the transition from written documentation to advanced oral defense and professional pitching strategy.
-</details>
-
-<details>
-<summary><b>Week 09: Technical Project Finalization</b><br><i>Capstone review and technical documentation finalization · March 09 – March 14, 2023</i></summary>
-<br>
-
-> **Pedagogical Objective**: Capstone review, peer evaluation, and the finalization of technical engineering documentation.
-
-*   **Archival Record (Lessons)**:
-    *   [Lesson 1 (Thursday)](Week%209/Week%209%2C%20Lesson%201%20W23%20(Thursday).pdf)
-</details>
-
-<details>
-<summary><b>Week 10: Final Presentation and Exit Defense</b><br><i>Session summary and execution of Master of Engineering presentations · March 16 – March 21, 2023</i></summary>
-<br>
-
-> **Pedagogical Objective**: Comprehensive session summary and the execution of final Master of Engineering presentations.
-
-*   **Archival Record (Lessons)**:
-    *   [Lesson 1 (Thursday)](Week%2010/Week%2010%2C%20Lesson%201%20W23%20(Thursday).pdf)
-*   **Applied Artifacts (Archival Package)**:
-    *   [Final Presentation Documentation Package](Week%2010/MEng%20Presentation%20Package.pdf)
-</details>
+| # | Week | Rhetorical Focus | Dates | Lecture Slides | Applied Artifacts | Scholarly References |
+| :---: | :---: | :--- | :---: | :---: | :--- | :--- |
+| 1 | **Week 01** | Introduction to Rhetoric | Jan 05 – Jan 10 | [View](Week%201/Week%201%2C%20Lesson%201%20W23%20(Thursday).pdf) · [View](Week%201/Week%201%2C%20Lesson%202%20W23%20(Tuesday).pdf) · [Connect](Week%201/WINDSOR%20GENG%208000%20-%20McGraw%20Connect%20Composition.pdf) | [Reading](Week%201/Class%20Activity/Reading%20for%20Rhetorical%20Situation%20-%20An%20Engineer's%20Rhetorical%20Journey%20-%20Burton.pdf) · [Exercises](Week%201/Class%20Activity/Questions.jpg) · [Visuals (1-3)](Week%201/Class%20Activity/) | [The Art of Rhetoric](https://www.youtube.com/watch?v=3klMM9BkW5o) · [Ethos, Pathos, Logos](https://www.youtube.com/watch?v=pt_udRiOm_8) |
+| 2 | **Week 02** | Writing Process and Communication Channels | Jan 12 – Jan 17 | [View](Week%202/Week%202%2C%20Lesson%201%20W23%20(Thursday).pdf) · [View](Week%202/Week%202%2C%20Lesson%202%20W23%20(Tuesday).pdf) | [Channels](Week%202/Channels%20of%20Communication.html) · [Yahoo! Ethics](Week%202/Straight%20Outta%20Sunnyvale_%20Yahoo%20manager%20gone%20after%20racially-charged%20e-mail%20-%20The%20Globe%20and%20Mail(1).pdf) · [Body Language](Week%202/How%20to%20Read%20People%20and%20Decode%207%20Powerful%20Body%20Language.html) | [Process](https://www.youtube.com/watch?v=edZkuHHXDlo) · [Purdue OWL](https://owl.purdue.edu/owl/general_writing/the_writing_process/index.html) · [Email Lab](https://www.youtube.com/watch?v=HTgYHHKs0Zw) |
+| 3 | **Week 03** | Collaboration and Team Dynamics | Jan 19 – Jan 24 | [View](Week%203/Week%203%2C%20Lesson%201%20W23%20(Thursday).pdf) · [Project Async](Week%203/Week%203%2C%20Lesson%202%20Asynchronous%20Content%20-%20Project%20Description%20Overview.mp4) | [Teamwork](Week%203/Forming%20storming%20norming%20performing%20and%20adjourning.html) · [Cognitive Linguistics](Week%203/How%20language%20shapes%20the%20way%20we%20think%20Lera%20Boroditsky.html) · [Miscommunication](Week%203/How%20miscommunication%20happens%20(and%20how%20to%20avoid%20it).html) | [Collaboration](https://www.youtube.com/watch?v=vjSTNv4gyMM) · [HBR Secrets](https://hbr.org/2016/06/the-secrets-of-great-teamwork) · [Gender Equality](https://www.independent.co.uk/news/business/news/gender-inequality-man-woman-switch-names-week-martin-schneider-nicky-knacks-pay-gap-a7622201.html) |
+| 4 | **Week 04** | IEEE Standards and Information Literacy | Jan 26 – Jan 31 | [View (I)](Week%204/Week%204%2C%20Lesson%201%20W23%20(Thursday).pdf) · [View (II)](Week%204/Week%204%2C%20Lesson%202%20W23%20(Tuesday).pdf) · [CRAAP](Week%204/CRAAP.pdf) · [IEEE (Horn)](Week%204/IEEE%20Engineering%20Presentation%20(Jason%20Horn).pdf) | — | [Purdue IEEE](https://owl.purdue.edu/owl/research_and_citation/ieee_style/ieee_overview.html) · [Murdoch Guide](https://libguides.murdoch.edu.au/IEEE/home) · [Discovery Lab](https://library.wlu.ca/help/tutorials/getting-started-omni) |
+| 5 | **Week 05** | Paraphrasing and Analytical Rewriting | Feb 02 – Feb 07 | [View](Week%205/Week%205%2C%20Lesson%201%20W23%20(Thursday).pdf) | [Rewriting Activity](Week%205/In-Class%20Activity/Rewriting%20and%20Paraphrasing%20Exercise.jpg) | — |
+| 6 | **Week 06** | Engineering Ethics and Professional Sins | Feb 09 – Feb 14 | [View](Week%206/Week%206%2C%20Lesson%201%20W23%20(Thursday).pdf) · [View](Week%206/Week%206%2C%20Lesson%202%20W23%20(Tuesday).pdf) | [Pedagogical Survey](Week%206/Stop-Start-Continue%20Survey%20-%20Engineering%20Technical%20Communications%20(Section%204).pdf) · [Digital Record](Week%206/Survey%20Submission.png) | [The Seven Deadly Sins](https://www.engineering.com/story/communication-skills-for-engineers-the-seven-deadly-sins-and-how-to-overcome-them) |
+| 7 | **Week 07** | Visual Rhetoric and Data Integrity | Feb 16 – Feb 28 | [View](Week%207/Week%207%2C%20Lesson%201%20W23%20(Thursday).pdf) · [View](Week%207/Week%207%2C%20Lesson%202%20W23%20(Tuesday).pdf) | — | [Spotting Misleading Graphs](https://ed.ted.com/lessons/how-to-spot-a-misleading-graph-lea-gaslowitz#watch) |
+| 8 | **Week 08** | Persuasive Oral Communication and Pitching | Mar 02 – Mar 07 | [View](Week%208/Week%208%2C%20Lesson%202%20W23%20(Tuesday).pdf) | [Forbes Pitch](https://www.forbes.com/sites/nextavenue/2013/02/04/the-perfect-elevator-pitch-to-land-a-job/?sh=6c952d151b1d) · [Pitching Logistics](https://www.thebalancemoney.com/how-to-write-an-elevator-pitch-2951690) · [Pitch Strategy](https://businessbrokendown.com/2015/09/14/a-quick-guide-to-a-killer-elevator-pitch/) | [Dragons' Den](https://www.cbc.ca/dragonsden/pitches/category/season-17) · [3MT Thesis](https://cags.ca/3mt-2/) · [Vanessa Edwards](https://www.youtube.com/watch?v=ZLWWAZ3VDiM) |
+| 9 | **Week 09** | Technical Project Finalization | Mar 09 – Mar 14 | [View](Week%209/Week%209%2C%20Lesson%201%20W23%20(Thursday).pdf) | — | — |
+| 10 | **Week 10** | Final Presentation and Exit Defense | Mar 16 – Mar 21 | [View](Week%2010/Week%2010%2C%20Lesson%201%20W23%20(Thursday).pdf) | [Presentation Package](Week%2010/MEng%20Presentation%20Package.pdf) | — |
 
 ---
 
