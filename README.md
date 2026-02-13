@@ -4,7 +4,7 @@
 <div align="center">
 
   <!-- Logo -->
-  <img src="university-of-windsor-logo.png" alt="University of Windsor" width="400"/>
+  <img src="https://raw.githubusercontent.com/Amey-Thakur/MENG-COMPUTER-ENGINEERING/main/university-of-windsor-logo.png" alt="University of Windsor" width="400"/>
 
   <!-- Title -->
   # Engineering Technical Communications
