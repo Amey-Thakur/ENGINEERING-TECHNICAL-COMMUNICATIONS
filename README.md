@@ -196,7 +196,7 @@ A comprehensive archival log documenting pedagogical discourse, session timeline
 A granular breakdown of Winter 2023 session resources, guest presentations, and curated scholarly references.
 
 > [!NOTE]
-> This synthesized inventory serves as the methodological core of the archive, bridging academic theory with professional engineering practice. By integrating peer-reviewed literature, industry-standard guides, and rhetorical case studies, these resources provide the evidential depth required to master complex technical discourse.
+> This collection connects academic communication theories with the practical standards of professional engineering. By combining scholarly readings, industry-standard guides (such as IEEE), and real-world case studies, these resources provide the necessary foundation for mastering professional technical discourse.
 
 | # | Week | Session | Date | Applied Pedagogical Artifacts & Scholarly References |
 | :---: | :---: | :---: | :---: | :--- |
