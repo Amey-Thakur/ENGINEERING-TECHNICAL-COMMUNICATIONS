@@ -196,7 +196,7 @@ A comprehensive archival log documenting pedagogical discourse, session timeline
 A granular breakdown of Winter 2023 session resources, guest presentations, and curated scholarly references.
 
 > [!NOTE]
-> The specialized table below provides an exhaustive breakdown of applied pedagogical artifacts, guest presentations, and curated scholarly references corresponding to each session in the chronological archive.
+> This synthesized inventory serves as the methodological core of the archive, bridging academic theory with professional engineering practice. By integrating peer-reviewed literature, industry-standard guides, and rhetorical case studies, these resources provide the evidential depth required to master complex technical discourse.
 
 | # | Week | Session | Date | Applied Pedagogical Artifacts & Scholarly References |
 | :---: | :---: | :---: | :---: | :--- |
