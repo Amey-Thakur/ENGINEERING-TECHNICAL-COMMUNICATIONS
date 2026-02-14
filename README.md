@@ -165,7 +165,7 @@ An archive of all course assessments, organized chronologically by category. Thi
 
 ---
 
-### Lecture Notes
+## Lecture Notes
 
 A comprehensive archival log documenting pedagogical discourse, session timelines, and core instructional content for the Winter 2023 session.
 
