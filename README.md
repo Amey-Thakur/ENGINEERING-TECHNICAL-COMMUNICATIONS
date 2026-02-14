@@ -191,6 +191,10 @@ A comprehensive archival log documenting pedagogical discourse, session timeline
 | 15 | **Week 09** | Thursday | March 09, 2023 | Technical Finalization | [View](Week%209/Week%209%2C%20Lesson%201%20W23%20(Thursday).pdf) |
 | 16 | **Week 10** | Thursday | March 16, 2023 | Exit Defense | [View](Week%2010/Week%2010%2C%20Lesson%201%20W23%20(Thursday).pdf) |
 
+### Applied Pedagogical Artifacts
+
+A granular breakdown of session-specific resources, guest presentations, and curated scholarly references.
+
 > [!NOTE]
 > The specialized table below provides an exhaustive breakdown of applied pedagogical artifacts, guest presentations, and curated scholarly references corresponding to each session in the chronological archive.
 
