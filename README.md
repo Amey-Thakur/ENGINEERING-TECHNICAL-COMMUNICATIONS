@@ -193,7 +193,7 @@ A comprehensive archival log documenting pedagogical discourse, session timeline
 
 ### Applied Pedagogical Artifacts
 
-A granular breakdown of session-specific resources, guest presentations, and curated scholarly references.
+A granular breakdown of Winter 2023 session resources, guest presentations, and curated scholarly references.
 
 > [!NOTE]
 > The specialized table below provides an exhaustive breakdown of applied pedagogical artifacts, guest presentations, and curated scholarly references corresponding to each session in the chronological archive.
