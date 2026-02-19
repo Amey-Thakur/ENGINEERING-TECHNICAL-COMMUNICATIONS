@@ -60,7 +60,7 @@ As I progress in my career, I recognize that technical communication foundations
 - **Community Contribution**: To share these resources with students and learners who may benefit from them
 
 > [!NOTE]
-> All materials were created, compiled, and organized by me during the Winter 2023 semester as part of my MEng degree requirements.
+> All materials were created, compiled, and organized by me during the **Winter 2023** semester as part of my MEng degree requirements.
 
 
 ---
@@ -167,7 +167,7 @@ An archive of all course assessments, organized chronologically by category. Thi
 
 ## Lecture Notes
 
-A comprehensive archival log documenting pedagogical discourse, session timelines, and core instructional content for the Winter 2023 session.
+A comprehensive archival log documenting pedagogical discourse, session timelines, and core instructional content for the **Winter 2023** session.
 
 > [!TIP]
 > Technical communication is not merely about transmitting data; it is an exercise in **rhetorical strategy**. Every archive below explores the critical alignment between **Audience**, **Purpose**, and **Context** within the engineering profession.
@@ -193,7 +193,7 @@ A comprehensive archival log documenting pedagogical discourse, session timeline
 
 ### Applied Pedagogical Artifacts
 
-A granular breakdown of Winter 2023 session resources, guest presentations, and curated scholarly references.
+A granular breakdown of **Winter 2023** session resources, guest presentations, and curated scholarly references.
 
 > [!NOTE]
 > This collection connects academic communication theories with the practical standards of professional engineering. By combining scholarly readings, industry-standard guides (such as IEEE), and real-world case studies, these resources provide the necessary foundation for mastering professional technical discourse.
