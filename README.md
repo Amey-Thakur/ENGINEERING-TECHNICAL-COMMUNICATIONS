@@ -308,6 +308,6 @@ Special thanks to the **mentors** and **peers** whose encouragement, discussions
 
   **Computer Engineering (M.Eng) - University of Windsor**
 
-  *An archival record of **graduate-level research** and **advanced engineering coursework**.*
+  *Semester-wise curriculum, laboratories, projects, and academic notes.*
 
 </div>
