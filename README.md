@@ -14,7 +14,7 @@
 
   <!-- Badges -->
   [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](LICENSE)
-  [![University](https://img.shields.io/badge/University-Windsor-00539B.svg)](https://www.uwindsor.ca)
+  [![University](https://img.shields.io/badge/University-Windsor-005596.svg)](https://www.uwindsor.ca)
   [![Program](https://img.shields.io/badge/Program-MEng%20Computer%20Engineering-FFCE00.svg)](https://www.uwindsor.ca/engineering/)
   [![Curated by](https://img.shields.io/badge/Curated%20by-Amey%20Thakur-0969DA.svg)](https://github.com/Amey-Thakur)
 
