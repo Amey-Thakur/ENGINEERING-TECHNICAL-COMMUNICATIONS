@@ -1,0 +1,47 @@
+# Engineering Technical Communications
+
+> GENG 8000: Engineering Technical Communications [ETC] | Semester I | MEng
+> Computer Engineering
+
+Author: Amey Thakur, ORCID 0000-0001-5644-1575
+Institution: University of Windsor
+Programme: M.Eng Computer Engineering, Semester I
+Course code: GENG 8000
+Licence: CC BY 4.0, attribution required
+Repository created: 12 January 2023
+Work dated: 4 May 2023
+
+## What is in this repository
+
+- Assignments, 87 files
+- Discussion Posts, 2 files
+- Office Hours, 2 files
+- Reference Books, 2 files
+- Supplementary Writing and Communications Resources, 8 files
+- Week 1, 13 files
+- Week 10, 2 files
+- Week 2, 8 files
+- Week 3, 8 files
+- Week 4, 9 files
+- Week 5, 2 files
+- Week 6, 5 files
+- Week 7, 3 files
+- Week 8, 7 files
+- Week 9, 1 file
+- GENG 8000 - Engineering Technical Communications.pdf
+- View My Classes - Winter 2023.pdf
+
+## Subject terms
+
+computer-engineering, engineering-communications, geng-8000, ieee,
+master-of-engineering, meng, meng-ece, professional-writing,
+technical-communication-teams, technical-communications,
+technical-documentation, technical-reporting, technical-writing,
+technical-writing-for-engineers, university-of-windsor, uwindsor
+
+## Where this sits
+
+- This repository: https://github.com/Amey-Thakur/ENGINEERING-TECHNICAL-COMMUNICATIONS
+- Degree index, every subject and project: https://github.com/Amey-Thakur/MENG-COMPUTER-ENGINEERING
+- Author: https://github.com/Amey-Thakur
+- Research notes and reflections: https://amey-thakur.github.io/
